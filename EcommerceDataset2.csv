@@ -1,0 +1,801 @@
+CustomerID,CustomerEmail,Country,Membership,SignUpDate,LastOrderDate,TotalSpent,Customer Communication Log
+1,marketfan7271@bestdeals.com,Canada,Premium,2022-01-01 00:00:00,2023-01-01 00:00:00,7194.105316,2022-09-01: Inquiry about payment issues
+2,dealhunter5763@buyeasy.com,Germany,VIP,2022-01-02 00:00:00,2023-01-02 00:00:00,1296.928323,2022-06-25: Feedback about payment issues; 2022-02-01: Request regarding order status; 2022-02-19: Complaint about payment issues
+3,dealhunter6659@buyeasy.com,Australia,VIP,2022-01-03 00:00:00,2023-01-03 00:00:00,2253.084133,2022-10-29: Inquiry about product availability
+4,buyer3839@eshop.com,UK,VIP,2022-01-04 00:00:00,2023-01-04 00:00:00,1456.792498,2022-11-25: Complaint about payment issues
+5,shopper6911@eshop.com,Canada,VIP,2022-01-05 00:00:00,2023-01-05 00:00:00,715.9549676,2022-08-07: Complaint about product availability
+6,marketfan7795@buyeasy.com,Australia,Standard,2022-01-06 00:00:00,2023-01-06 00:00:00,3021.299625,2022-07-23: Inquiry regarding order status; 2022-12-08: Complaint about product availability; 2022-12-17: Request about delayed delivery
+7,marketfan5992@bestdeals.com,UK,VIP,2022-01-07 00:00:00,2023-01-07 00:00:00,8336.630557,2022-01-25: Inquiry about delayed delivery
+8,dealhunter7923@eshop.com,Australia,Premium,2022-01-08 00:00:00,2023-01-08 00:00:00,2902.733464,2022-06-07: Complaint about delayed delivery; 2022-08-08: Complaint about membership benefits
+9,marketfan2070@buyeasy.com,UK,Standard,2022-01-09 00:00:00,2023-01-09 00:00:00,9426.147161,2022-02-03: Inquiry about payment issues; 2022-05-17: Complaint about membership benefits
+10,shopper9768@shopworld.com,UK,VIP,2022-01-10 00:00:00,2023-01-10 00:00:00,8875.906305,2022-11-18: Request about payment issues; 2022-07-24: Request regarding order status; 2022-03-24: Feedback about delayed delivery
+11,dealhunter4039@shopworld.com,USA,Premium,2022-01-11 00:00:00,2023-01-11 00:00:00,9110.138631,2022-07-19: Feedback about product availability; 2022-09-28: Complaint about membership benefits
+12,shopper6927@buyeasy.com,USA,Standard,2022-01-12 00:00:00,2023-01-12 00:00:00,3104.189481,2022-02-02: Feedback about product availability; 2022-11-18: Request for more information on a product; 2022-05-25: Feedback regarding order status
+13,buyer3149@shopworld.com,UK,Premium,2022-01-13 00:00:00,2023-01-13 00:00:00,8988.364065,2022-02-12: Request about payment issues; 2022-06-22: Inquiry about membership benefits
+14,buyer1376@buyeasy.com,Australia,Premium,2022-01-14 00:00:00,2023-01-14 00:00:00,4250.413644,2022-10-03: Inquiry regarding order status; 2022-07-08: Inquiry about membership benefits
+15,shopper7781@bestdeals.com,Canada,VIP,2022-01-15 00:00:00,2023-01-15 00:00:00,6631.55629,2022-01-26: Request about membership benefits; 2022-12-29: Feedback for more information on a product; 2022-08-24: Inquiry about payment issues
+16,buyer6596@bestdeals.com,UK,Premium,2022-01-16 00:00:00,2023-01-16 00:00:00,754.132851,2022-08-30: Feedback for more information on a product
+17,marketfan6034@eshop.com,Germany,VIP,2022-01-17 00:00:00,2023-01-17 00:00:00,4967.239764,2022-09-09: Complaint about membership benefits; 2022-10-31: Complaint about product availability; 2022-03-04: Inquiry about product availability
+18,shopper3933@bestdeals.com,Australia,Standard,2022-01-18 00:00:00,2023-01-18 00:00:00,6194.894515,2022-10-31: Request regarding order status; 2022-11-13: Request regarding order status
+19,shopper3190@bestdeals.com,Germany,VIP,2022-01-19 00:00:00,2023-01-19 00:00:00,5619.112589,2022-04-25: Feedback about payment issues; 2022-12-22: Feedback about membership benefits; 2022-01-20: Feedback about payment issues
+20,shopper1299@buyeasy.com,Germany,Premium,2022-01-20 00:00:00,2023-01-20 00:00:00,5891.292901,2022-07-23: Inquiry about product availability; 2022-12-16: Inquiry about delayed delivery; 2022-08-11: Inquiry regarding order status
+21,dealhunter1092@eshop.com,Canada,Premium,2022-01-21 00:00:00,2023-01-21 00:00:00,1089.899915,2022-02-03: Request regarding order status
+22,shopper1835@buyeasy.com,UK,Premium,2022-01-22 00:00:00,2023-01-22 00:00:00,6655.482,2022-09-10: Request regarding order status; 2022-11-12: Request about payment issues; 2022-07-02: Feedback for more information on a product
+23,dealhunter6773@buyeasy.com,Australia,VIP,2022-01-23 00:00:00,2023-01-23 00:00:00,4939.722253,2022-11-10: Feedback for more information on a product; 2022-05-27: Feedback for more information on a product
+24,buyer7760@shopworld.com,Germany,Premium,2022-01-24 00:00:00,2023-01-24 00:00:00,837.02853,2022-05-10: Request for more information on a product
+25,marketfan3210@bestdeals.com,Germany,Standard,2022-01-25 00:00:00,2023-01-25 00:00:00,9389.72202,2022-04-28: Feedback regarding order status; 2022-08-20: Complaint for more information on a product; 2022-03-30: Inquiry about delayed delivery
+26,shopper7903@eshop.com,UK,Standard,2022-01-26 00:00:00,2023-01-26 00:00:00,4859.00122,2022-07-29: Inquiry for more information on a product; 2022-02-26: Request about product availability
+27,dealhunter8922@bestdeals.com,Australia,VIP,2022-01-27 00:00:00,2023-01-27 00:00:00,2600.764067,2022-10-04: Inquiry about product availability; 2022-12-19: Complaint about product availability; 2022-02-23: Inquiry about membership benefits
+28,marketfan7609@buyeasy.com,Canada,Standard,2022-01-28 00:00:00,2023-01-28 00:00:00,6435.258074,2022-08-09: Request about delayed delivery; 2022-11-20: Request regarding order status; 2022-04-02: Request about payment issues
+29,shopper672@shopworld.com,Germany,Standard,2022-01-29 00:00:00,2023-01-29 00:00:00,747.8981576,2022-12-01: Request for more information on a product
+30,buyer5710@buyeasy.com,USA,Premium,2022-01-30 00:00:00,2023-01-30 00:00:00,6375.611684,2022-10-30: Complaint about membership benefits; 2022-02-05: Complaint for more information on a product; 2022-10-18: Feedback about membership benefits
+31,dealhunter9376@eshop.com,Germany,Premium,2022-01-31 00:00:00,2023-01-31 00:00:00,3263.305282,2022-08-13: Complaint about payment issues
+32,buyer7457@shopworld.com,Australia,VIP,2022-02-01 00:00:00,2023-02-01 00:00:00,1422.219883,2022-09-20: Request about payment issues; 2022-03-29: Complaint regarding order status; 2022-04-06: Feedback about product availability
+33,buyer205@buyeasy.com,USA,VIP,2022-02-02 00:00:00,2023-02-02 00:00:00,1065.234793,2022-01-17: Complaint regarding order status
+34,dealhunter5776@eshop.com,USA,VIP,2022-02-03 00:00:00,2023-02-03 00:00:00,3482.711438,2022-12-31: Request for more information on a product
+35,shopper3622@eshop.com,Canada,Premium,2022-02-04 00:00:00,2023-02-04 00:00:00,9240.230178,2022-07-21: Complaint about payment issues; 2022-09-16: Feedback regarding order status; 2022-03-12: Feedback about payment issues
+36,buyer9672@buyeasy.com,Germany,Premium,2022-02-05 00:00:00,2023-02-05 00:00:00,1730.993655,2022-04-08: Request regarding order status
+37,shopper5430@bestdeals.com,USA,Premium,2022-02-06 00:00:00,2023-02-06 00:00:00,4832.579568,2023-01-01: Request about delayed delivery
+38,shopper4751@shopworld.com,Canada,Standard,2022-02-07 00:00:00,2023-02-07 00:00:00,585.9463112,2022-12-04: Request about membership benefits
+39,marketfan9276@buyeasy.com,Canada,Standard,2022-02-08 00:00:00,2023-02-08 00:00:00,5912.699692,2022-12-09: Feedback regarding order status
+40,buyer5813@bestdeals.com,Australia,VIP,2022-02-09 00:00:00,2023-02-09 00:00:00,614.6007259,2022-05-07: Request regarding order status; 2022-12-14: Request for more information on a product; 2022-07-26: Feedback about payment issues
+41,shopper1176@eshop.com,Australia,Premium,2022-02-10 00:00:00,2023-02-10 00:00:00,1866.790509,2022-08-27: Inquiry regarding order status
+42,shopper7138@bestdeals.com,Australia,VIP,2022-02-11 00:00:00,2023-02-11 00:00:00,6741.511299,2022-08-04: Feedback about membership benefits; 2022-06-08: Inquiry about membership benefits
+43,dealhunter12@shopworld.com,Canada,VIP,2022-02-12 00:00:00,2023-02-12 00:00:00,2015.168285,2022-06-12: Request regarding order status; 2022-05-22: Inquiry about membership benefits; 2022-09-16: Complaint about product availability
+44,dealhunter380@buyeasy.com,USA,VIP,2022-02-13 00:00:00,2023-02-13 00:00:00,5827.148961,2022-02-10: Complaint about membership benefits
+45,invalid_email,UK,Premium,2022-02-14 00:00:00,2023-02-14 00:00:00,7114.788839,2022-05-17: Request about product availability
+46,buyer5965@shopworld.com,UK,Premium,2022-02-15 00:00:00,2023-02-15 00:00:00,9744.739741,2022-08-19: Feedback about product availability; 2022-07-28: Inquiry for more information on a product; 2022-07-19: Complaint about payment issues
+47,buyer9370@eshop.com,Germany,Premium,2022-02-16 00:00:00,2023-02-16 00:00:00,9977.978795,2022-01-06: Feedback about product availability
+48,marketfan4841@shopworld.com,Canada,VIP,2022-02-17 00:00:00,2023-02-17 00:00:00,1560.268178,2022-06-17: Feedback for more information on a product
+49,dealhunter342@eshop.com,Canada,Standard,2022-02-18 00:00:00,2023-02-18 00:00:00,6888.574277,2022-02-04: Complaint about product availability; 2022-12-29: Inquiry about delayed delivery; 2022-06-22: Complaint about payment issues
+50,buyer1061@shopworld.com,USA,VIP,2022-02-19 00:00:00,2023-02-19 00:00:00,111.6068931,2022-03-16: Inquiry about product availability; 2022-05-08: Complaint about payment issues; 2022-04-13: Feedback for more information on a product
+51,dealhunter9774@shopworld.com,Germany,VIP,2022-02-20 00:00:00,2023-02-20 00:00:00,-999,2022-04-15: Request about payment issues
+52,dealhunter6564@buyeasy.com,Australia,VIP,2022-02-21 00:00:00,2023-02-21 00:00:00,4525.711169,2022-07-08: Inquiry for more information on a product; 2022-11-25: Complaint about membership benefits
+53,buyer519@eshop.com,USA,VIP,2022-02-22 00:00:00,2023-02-22 00:00:00,2669.843044,2022-01-08: Complaint about membership benefits; 2022-05-15: Inquiry about payment issues; 2022-02-21: Request for more information on a product
+54,marketfan6538@eshop.com,Australia,Standard,2022-02-23 00:00:00,2023-02-23 00:00:00,472.2932736,2022-05-11: Request about membership benefits
+55,marketfan8977@eshop.com,Germany,VIP,2022-02-24 00:00:00,2023-02-24 00:00:00,2166.708364,2022-12-25: Inquiry about delayed delivery
+56,buyer6848@shopworld.com,Canada,VIP,2022-02-25 00:00:00,2023-02-25 00:00:00,6298.669051,2022-08-10: Complaint about delayed delivery
+57,marketfan1204@eshop.com,Canada,Standard,2022-02-26 00:00:00,2023-02-26 00:00:00,9477.0816,2022-08-05: Inquiry for more information on a product
+58,marketfan4753@bestdeals.com,Germany,VIP,2022-02-27 00:00:00,2023-02-27 00:00:00,5781.924106,2022-09-18: Inquiry about delayed delivery; 2022-01-04: Inquiry for more information on a product
+59,marketfan9921@shopworld.com,UK,VIP,2022-02-28 00:00:00,2023-02-28 00:00:00,6756.311683,2022-12-26: Feedback about payment issues; 2022-08-10: Request about delayed delivery; 2022-04-28: Inquiry about product availability
+60,buyer7672@buyeasy.com,UK,Standard,2022-03-01 00:00:00,2023-03-01 00:00:00,2578.992916,2022-08-16: Inquiry regarding order status; 2022-09-02: Inquiry regarding order status; 2022-10-16: Complaint about membership benefits
+61,dealhunter4670@buyeasy.com,UK,VIP,2022-03-02 00:00:00,2023-03-02 00:00:00,3341.855694,2022-03-17: Complaint regarding order status
+62,marketfan1449@bestdeals.com,Canada,Standard,2022-03-03 00:00:00,2023-03-03 00:00:00,5999.761533,2022-05-13: Request about product availability
+63,marketfan2535@shopworld.com,Canada,Premium,2022-03-04 00:00:00,2023-03-04 00:00:00,9353.608906,2022-03-23: Request regarding order status
+64,shopper4639@buyeasy.com,USA,Standard,2022-03-05 00:00:00,2023-03-05 00:00:00,8272.957611,2022-03-02: Feedback regarding order status; 2022-12-12: Inquiry for more information on a product; 2022-08-25: Request about delayed delivery
+65,buyer4161@buyeasy.com,Germany,Premium,2022-03-06 00:00:00,2023-03-06 00:00:00,964.0603051,2022-04-02: Inquiry about membership benefits; 2022-07-30: Inquiry for more information on a product
+66,dealhunter5716@eshop.com,Germany,VIP,2022-03-07 00:00:00,2023-03-07 00:00:00,7923.835809,2022-06-13: Feedback about payment issues; 2022-07-14: Request for more information on a product
+67,marketfan8915@eshop.com,USA,Premium,2022-03-08 00:00:00,2023-03-08 00:00:00,908.2784923,2022-03-26: Inquiry about membership benefits; 2022-11-27: Complaint regarding order status; 2022-05-22: Request about product availability
+68,marketfan8327@buyeasy.com,UK,Premium,2022-03-09 00:00:00,2023-03-09 00:00:00,4849.654318,2022-12-21: Complaint about membership benefits
+69,dealhunter1643@eshop.com,UK,Standard,2022-03-10 00:00:00,2023-03-10 00:00:00,7846.22107,2022-07-30: Inquiry about membership benefits
+70,dealhunter9086@buyeasy.com,Canada,Standard,2022-03-11 00:00:00,2023-03-11 00:00:00,499.0035638,2022-12-22: Request regarding order status
+71,buyer9504@buyeasy.com,Germany,Standard,2022-03-12 00:00:00,2023-03-12 00:00:00,-999,2022-11-08: Complaint about membership benefits; 2022-05-20: Feedback about membership benefits; 2022-05-15: Request regarding order status
+72,dealhunter6001@shopworld.com,Canada,Standard,2022-03-13 00:00:00,2023-03-13 00:00:00,7735.068115,2022-09-01: Inquiry about delayed delivery; 2022-08-14: Inquiry regarding order status
+73,buyer3488@bestdeals.com,Germany,VIP,2022-03-14 00:00:00,2023-03-14 00:00:00,3134.349207,2022-09-22: Complaint about delayed delivery; 2022-09-04: Request regarding order status; 2022-03-06: Request regarding order status
+74,dealhunter4636@buyeasy.com,Australia,VIP,2022-03-15 00:00:00,2023-03-15 00:00:00,848.8010474,2022-09-21: Complaint regarding order status
+75,marketfan7670@eshop.com,Germany,VIP,2022-03-16 00:00:00,2023-03-16 00:00:00,7900.443167,2022-07-12: Inquiry about delayed delivery; 2022-01-21: Feedback about payment issues; 2022-07-26: Feedback for more information on a product
+76,shopper8452@buyeasy.com,Germany,VIP,2022-03-17 00:00:00,2023-03-17 00:00:00,9397.99794,2022-11-26: Request about membership benefits; 2022-02-27: Request for more information on a product; 2022-04-27: Request for more information on a product
+77,marketfan1487@eshop.com,USA,VIP,2022-03-18 00:00:00,2023-03-18 00:00:00,1499.703943,2022-09-07: Request for more information on a product; 2022-09-19: Feedback about payment issues
+78,buyer138@shopworld.com,Germany,Premium,2022-03-19 00:00:00,2023-03-19 00:00:00,5142.51368,2022-08-04: Request about membership benefits
+79,dealhunter6754@eshop.com,Australia,Standard,2022-03-20 00:00:00,2023-03-20 00:00:00,1820.925644,2022-08-23: Feedback for more information on a product; 2022-04-08: Inquiry about product availability; 2022-02-10: Request regarding order status
+80,buyer7694@bestdeals.com,Germany,VIP,2022-03-21 00:00:00,2023-03-21 00:00:00,9029.476067,2022-04-03: Complaint about payment issues; 2022-04-19: Request regarding order status; 2022-09-05: Inquiry about delayed delivery
+81,dealhunter7394@eshop.com,UK,Standard,2022-03-22 00:00:00,2023-03-22 00:00:00,5877.554048,2022-05-26: Feedback about membership benefits
+82,marketfan2320@eshop.com,Australia,Premium,2022-03-23 00:00:00,2023-03-23 00:00:00,1310.662828,2022-08-11: Feedback about membership benefits
+83,buyer8242@buyeasy.com,Australia,Premium,2022-03-24 00:00:00,2023-03-24 00:00:00,852.1558486,2022-07-08: Inquiry regarding order status; 2022-08-23: Request about product availability
+84,buyer3669@eshop.com,USA,Premium,2022-03-25 00:00:00,2023-03-25 00:00:00,3020.232322,2022-12-27: Request about payment issues; 2022-02-12: Feedback about payment issues; 2022-10-13: Request about product availability
+85,shopper3694@buyeasy.com,Canada,Premium,2022-03-26 00:00:00,2023-03-26 00:00:00,4875.878711,2022-06-27: Feedback for more information on a product; 2022-06-17: Feedback about payment issues; 2022-02-06: Inquiry for more information on a product
+86,marketfan1073@eshop.com,Australia,Premium,2022-03-27 00:00:00,2023-03-27 00:00:00,7665.502936,2022-06-28: Request regarding order status; 2022-10-30: Complaint about payment issues; 2022-07-23: Feedback regarding order status
+87,marketfan5503@buyeasy.com,Canada,Premium,2022-03-28 00:00:00,2023-03-28 00:00:00,6490.272805,2022-10-16: Request about delayed delivery; 2022-04-02: Request for more information on a product; 2022-06-10: Feedback about payment issues
+88,dealhunter9599@buyeasy.com,Germany,VIP,2022-03-29 00:00:00,2023-03-29 00:00:00,3521.531267,2022-07-28: Feedback for more information on a product
+89,marketfan2750@shopworld.com,Australia,Standard,2022-03-30 00:00:00,2023-03-30 00:00:00,8759.714135,2022-12-25: Complaint about payment issues; 2022-03-05: Complaint about product availability
+90,shopper9039@shopworld.com,Canada,Standard,2022-03-31 00:00:00,2023-03-31 00:00:00,1887.817468,2022-03-24: Request about product availability; 2022-03-06: Inquiry regarding order status; 2022-12-30: Inquiry about product availability
+91,shopper3988@buyeasy.com,USA,VIP,2022-04-01 00:00:00,2023-04-01 00:00:00,3077.064228,2022-05-06: Complaint regarding order status
+92,marketfan2737@bestdeals.com,UK,Standard,2022-04-02 00:00:00,2023-04-02 00:00:00,2636.02975,2022-11-24: Request about payment issues
+93,buyer6721@shopworld.com,UK,VIP,2022-04-03 00:00:00,2023-04-03 00:00:00,2278.405176,2022-03-09: Complaint about membership benefits; 2022-01-23: Complaint for more information on a product
+94,marketfan3966@eshop.com,USA,VIP,2022-04-04 00:00:00,2023-04-04 00:00:00,5894.746327,2022-09-24: Request about product availability; 2022-11-26: Feedback about payment issues
+95,buyer2893@shopworld.com,USA,Premium,2022-04-05 00:00:00,2023-04-05 00:00:00,3596.977865,2022-08-26: Complaint about payment issues
+96,marketfan187@buyeasy.com,Australia,Standard,2022-04-06 00:00:00,2023-04-06 00:00:00,3160.10316,2022-11-16: Inquiry about membership benefits
+97,shopper4031@bestdeals.com,Australia,Premium,2022-04-07 00:00:00,2023-04-07 00:00:00,1154.040576,2022-01-02: Inquiry regarding order status; 2022-04-21: Feedback about delayed delivery
+98,dealhunter6345@bestdeals.com,Australia,Standard,2022-04-08 00:00:00,2023-04-08 00:00:00,2353.934337,2022-01-11: Inquiry about payment issues; 2022-01-23: Inquiry about membership benefits
+99,shopper6398@eshop.com,Australia,Standard,2022-04-09 00:00:00,2023-04-09 00:00:00,9817.024601,2022-10-30: Request about membership benefits; 2022-01-19: Inquiry regarding order status; 2022-05-22: Feedback about product availability
+100,dealhunter3562@bestdeals.com,Germany,Standard,2022-04-10 00:00:00,2023-04-10 00:00:00,8422.132424,2022-09-11: Feedback about delayed delivery; 2022-12-26: Feedback about product availability
+101,dealhunter2971@buyeasy.com,Australia,Premium,2022-04-11 00:00:00,2023-04-11 00:00:00,7575.632364,2022-11-27: Feedback about delayed delivery; 2022-01-26: Inquiry about product availability; 2022-05-16: Complaint for more information on a product
+102,shopper9898@bestdeals.com,Australia,VIP,2022-04-12 00:00:00,2023-04-12 00:00:00,8017.303105,2022-04-04: Complaint regarding order status; 2022-06-19: Complaint about product availability
+103,marketfan154@bestdeals.com,Germany,Premium,2022-04-13 00:00:00,2023-04-13 00:00:00,1711.609676,2022-03-03: Complaint for more information on a product; 2022-11-01: Feedback about membership benefits; 2022-10-01: Inquiry for more information on a product
+104,shopper2390@eshop.com,UK,Premium,2022-04-14 00:00:00,2023-04-14 00:00:00,8219.857238,2022-08-18: Request about product availability; 2022-12-29: Request about payment issues; 2022-09-10: Complaint about delayed delivery
+105,marketfan5140@bestdeals.com,UK,VIP,2022-04-15 00:00:00,2023-04-15 00:00:00,153.8187368,2022-05-19: Feedback about payment issues; 2022-09-29: Feedback about membership benefits
+106,dealhunter6388@buyeasy.com,Germany,Standard,2022-04-16 00:00:00,2023-04-16 00:00:00,1894.217516,2022-12-08: Complaint about delayed delivery
+107,shopper2882@buyeasy.com,UK,VIP,2022-04-17 00:00:00,2023-04-17 00:00:00,5000.833968,2022-05-13: Inquiry about product availability
+108,dealhunter8427@shopworld.com,USA,Standard,2022-04-18 00:00:00,2023-04-18 00:00:00,9849.235367,2022-10-23: Inquiry about product availability; 2022-08-12: Request about product availability
+109,buyer9079@shopworld.com,USA,Premium,2022-04-19 00:00:00,2023-04-19 00:00:00,3325.931746,2022-07-08: Request about delayed delivery; 2022-12-23: Request about product availability; 2022-02-01: Request about product availability
+110,marketfan1090@buyeasy.com,Germany,Standard,2022-04-20 00:00:00,2023-04-20 00:00:00,4751.354255,2022-10-01: Complaint about delayed delivery; 2022-11-21: Complaint regarding order status
+111,dealhunter7043@eshop.com,Germany,VIP,2022-04-21 00:00:00,2023-04-21 00:00:00,1150.262431,2022-09-05: Complaint about delayed delivery; 2022-10-30: Inquiry about membership benefits
+112,shopper7413@shopworld.com,UK,VIP,2022-04-22 00:00:00,2023-04-22 00:00:00,6864.742701,2022-01-23: Feedback about membership benefits; 2022-04-09: Inquiry regarding order status; 2022-12-13: Feedback regarding order status
+113,dealhunter8409@shopworld.com,Canada,Standard,2022-04-23 00:00:00,2023-04-23 00:00:00,4700.533425,2022-09-01: Inquiry about delayed delivery; 2022-07-22: Inquiry about payment issues
+114,shopper3395@eshop.com,USA,Premium,2022-04-24 00:00:00,2023-04-24 00:00:00,7868.59489,2022-01-17: Complaint about product availability
+115,buyer9128@buyeasy.com,Canada,Standard,2022-04-25 00:00:00,2023-04-25 00:00:00,2071.888898,2022-12-08: Feedback about delayed delivery; 2022-05-10: Request about product availability; 2022-02-18: Complaint regarding order status
+116,buyer9302@eshop.com,Australia,Standard,2022-04-26 00:00:00,2023-04-26 00:00:00,8580.205957,2022-09-11: Feedback about membership benefits
+117,buyer2341@eshop.com,UK,Premium,2022-04-27 00:00:00,2023-04-27 00:00:00,544.240647,2022-01-16: Inquiry about delayed delivery; 2022-05-17: Inquiry about membership benefits
+118,shopper2528@buyeasy.com,Germany,VIP,2022-04-28 00:00:00,2023-04-28 00:00:00,4016.607841,2022-04-30: Request about membership benefits; 2022-08-24: Inquiry about product availability; 2022-09-02: Feedback regarding order status
+119,buyer3477@shopworld.com,USA,Standard,2022-04-29 00:00:00,2023-04-29 00:00:00,7599.941993,2022-09-11: Feedback regarding order status
+120,marketfan136@buyeasy.com,Germany,Standard,2022-04-30 00:00:00,2023-04-30 00:00:00,6027.790991,2022-11-16: Request for more information on a product
+121,marketfan727@eshop.com,Australia,VIP,2022-05-01 00:00:00,2023-05-01 00:00:00,2420.868088,2022-01-24: Feedback about payment issues; 2022-10-25: Complaint about product availability
+122,buyer9816@eshop.com,Australia,Standard,2022-05-02 00:00:00,2023-05-02 00:00:00,1939.040446,2022-09-06: Feedback about payment issues; 2022-03-24: Complaint for more information on a product
+123,marketfan8383@buyeasy.com,Germany,VIP,2022-05-03 00:00:00,2023-05-03 00:00:00,9982.863714,2022-05-13: Feedback about delayed delivery
+124,buyer2942@shopworld.com,Canada,Standard,2022-05-04 00:00:00,2023-05-04 00:00:00,2043.129299,2022-03-16: Inquiry about membership benefits; 2022-11-04: Feedback about product availability; 2022-09-04: Complaint for more information on a product
+125,marketfan1748@buyeasy.com,Australia,Premium,2022-05-05 00:00:00,2023-05-05 00:00:00,9615.356831,2022-11-20: Request about product availability
+126,dealhunter2041@bestdeals.com,Canada,VIP,2022-05-06 00:00:00,2023-05-06 00:00:00,5226.373241,2022-08-29: Complaint for more information on a product; 2022-01-27: Feedback about product availability
+127,dealhunter8954@buyeasy.com,UK,Standard,2022-05-07 00:00:00,2023-05-07 00:00:00,9283.546609,2022-06-16: Request about membership benefits; 2022-08-24: Feedback about membership benefits; 2022-08-28: Feedback for more information on a product
+128,dealhunter9992@bestdeals.com,Canada,VIP,2022-05-08 00:00:00,2023-05-08 00:00:00,6617.288235,2022-05-23: Request about product availability; 2022-05-04: Inquiry for more information on a product
+129,shopper45@bestdeals.com,Germany,Standard,2022-05-09 00:00:00,2023-05-09 00:00:00,7758.443715,2022-07-27: Feedback about membership benefits
+130,dealhunter5208@bestdeals.com,Canada,Premium,2022-05-10 00:00:00,2023-05-10 00:00:00,5595.30864,2022-01-24: Request about product availability; 2022-06-20: Inquiry about payment issues
+131,shopper5903@shopworld.com,UK,Standard,2022-05-11 00:00:00,2023-05-11 00:00:00,2283.86331,2022-01-16: Feedback regarding order status; 2022-11-22: Inquiry about payment issues; 2022-09-14: Complaint regarding order status
+132,shopper6963@bestdeals.com,UK,Standard,2022-05-12 00:00:00,2023-05-12 00:00:00,6262.043615,2022-11-27: Complaint about product availability; 2022-11-06: Complaint about delayed delivery
+133,marketfan3560@eshop.com,Canada,VIP,2022-05-13 00:00:00,2023-05-13 00:00:00,5210.275427,2022-07-04: Complaint regarding order status; 2022-05-06: Request about payment issues
+134,dealhunter1157@bestdeals.com,USA,VIP,2022-05-14 00:00:00,2023-05-14 00:00:00,3560.485221,2022-12-21: Inquiry about product availability
+135,shopper4389@buyeasy.com,Germany,Premium,2022-05-15 00:00:00,2023-05-15 00:00:00,5433.530745,2022-06-18: Complaint about delayed delivery
+136,shopper9301@shopworld.com,Germany,VIP,2022-05-16 00:00:00,2023-05-16 00:00:00,3124.666677,2022-03-26: Complaint about payment issues; 2022-03-22: Feedback about product availability; 2022-07-19: Request about payment issues
+137,marketfan5757@eshop.com,Canada,Standard,2022-05-17 00:00:00,2023-05-17 00:00:00,4292.411058,2022-04-09: Complaint about delayed delivery
+138,marketfan7589@shopworld.com,Australia,Standard,2022-05-18 00:00:00,2023-05-18 00:00:00,7686.343743,2022-05-28: Inquiry about membership benefits
+139,dealhunter9119@bestdeals.com,UK,Standard,2022-05-19 00:00:00,2023-05-19 00:00:00,6482.315938,2022-07-28: Feedback about product availability; 2022-01-13: Complaint about product availability
+140,dealhunter5763@eshop.com,USA,VIP,2022-05-20 00:00:00,2023-05-20 00:00:00,7923.193106,2022-04-11: Inquiry about membership benefits
+141,marketfan5355@buyeasy.com,UK,VIP,2022-05-21 00:00:00,2023-05-21 00:00:00,6326.65632,2022-06-09: Request regarding order status; 2022-10-02: Inquiry for more information on a product; 2022-07-25: Feedback about delayed delivery
+142,marketfan8221@eshop.com,Canada,Standard,2022-05-22 00:00:00,2023-05-22 00:00:00,-999,2022-04-22: Inquiry regarding order status
+143,buyer8698@buyeasy.com,USA,Standard,2022-05-23 00:00:00,2023-05-23 00:00:00,3094.342237,2022-05-11: Feedback for more information on a product; 2022-07-22: Request for more information on a product; 2022-07-30: Inquiry about membership benefits
+144,dealhunter3067@bestdeals.com,USA,Premium,2022-05-24 00:00:00,2023-05-24 00:00:00,6047.012753,2022-05-06: Feedback for more information on a product; 2022-10-08: Request about delayed delivery
+145,buyer5020@bestdeals.com,Canada,VIP,2022-05-25 00:00:00,2023-05-25 00:00:00,8392.801126,2022-11-17: Inquiry regarding order status; 2022-02-08: Inquiry for more information on a product
+146,buyer9334@bestdeals.com,Canada,Premium,2022-05-26 00:00:00,2023-05-26 00:00:00,1976.994696,2022-10-25: Feedback for more information on a product; 2022-01-23: Feedback regarding order status; 2022-12-17: Complaint about membership benefits
+147,marketfan3631@eshop.com,Canada,Premium,2022-05-27 00:00:00,2023-05-27 00:00:00,1978.358408,2022-05-12: Request about payment issues
+148,buyer5268@eshop.com,USA,Standard,2022-05-28 00:00:00,2023-05-28 00:00:00,3809.702868,2022-10-18: Complaint about delayed delivery; 2022-02-02: Inquiry regarding order status; 2022-03-15: Feedback about membership benefits
+149,shopper2921@buyeasy.com,USA,VIP,2022-05-29 00:00:00,2023-05-29 00:00:00,5806.136116,2022-04-14: Request regarding order status
+150,marketfan5577@shopworld.com,UK,VIP,2022-05-30 00:00:00,2023-05-30 00:00:00,8342.832415,2022-04-06: Inquiry regarding order status; 2022-04-03: Inquiry about product availability
+151,marketfan3089@shopworld.com,USA,Premium,2022-05-31 00:00:00,2023-05-31 00:00:00,725.4097901,2022-07-20: Inquiry about product availability
+152,marketfan6469@buyeasy.com,USA,Premium,2022-06-01 00:00:00,2023-06-01 00:00:00,1193.383772,2022-12-26: Complaint for more information on a product; 2022-08-06: Feedback for more information on a product
+153,dealhunter9731@bestdeals.com,Australia,Standard,2022-06-02 00:00:00,2023-06-02 00:00:00,6675.317346,2022-05-14: Complaint about delayed delivery; 2022-11-05: Feedback about product availability; 2022-06-16: Inquiry about product availability
+154,shopper1303@shopworld.com,USA,Standard,2022-06-03 00:00:00,2023-06-03 00:00:00,4999.117811,2022-05-31: Inquiry about delayed delivery; 2022-10-15: Feedback for more information on a product
+155,shopper8109@bestdeals.com,USA,Standard,2022-06-04 00:00:00,2023-06-04 00:00:00,7087.03844,2022-09-26: Feedback for more information on a product
+156,buyer4289@bestdeals.com,Australia,VIP,2022-06-05 00:00:00,2023-06-05 00:00:00,6223.414438,2022-08-13: Inquiry for more information on a product
+157,buyer2977@buyeasy.com,Australia,Standard,2022-06-06 00:00:00,2023-06-06 00:00:00,2215.467782,2022-03-30: Complaint about payment issues; 2022-09-07: Request about payment issues; 2022-09-23: Complaint regarding order status
+158,marketfan2421@shopworld.com,UK,Standard,2022-06-07 00:00:00,2023-06-07 00:00:00,7492.832659,2022-11-20: Request about payment issues; 2022-10-04: Feedback about delayed delivery
+159,buyer9900@bestdeals.com,UK,Standard,2022-06-08 00:00:00,2023-06-08 00:00:00,3062.614895,2022-09-29: Inquiry for more information on a product
+160,shopper1457@bestdeals.com,USA,Premium,2022-06-09 00:00:00,2023-06-09 00:00:00,6933.969963,2022-09-16: Inquiry regarding order status; 2022-12-24: Request about payment issues; 2022-02-01: Complaint regarding order status
+161,buyer7442@buyeasy.com,UK,Premium,2022-06-10 00:00:00,2023-06-10 00:00:00,5226.410689,2022-01-17: Feedback about product availability; 2022-07-27: Feedback about delayed delivery; 2022-06-19: Feedback about membership benefits
+162,shopper4820@buyeasy.com,USA,Standard,2022-06-11 00:00:00,2023-06-11 00:00:00,5800.807496,2022-11-08: Complaint regarding order status
+163,dealhunter109@eshop.com,Australia,Premium,2022-06-12 00:00:00,2023-06-12 00:00:00,7022.187602,2022-07-28: Inquiry about payment issues; 2022-05-16: Feedback about delayed delivery
+164,buyer3819@bestdeals.com,UK,Premium,2022-06-13 00:00:00,2023-06-13 00:00:00,9531.936647,2022-07-01: Complaint about delayed delivery; 2022-05-24: Inquiry about membership benefits
+165,marketfan9165@eshop.com,USA,Premium,2022-06-14 00:00:00,2023-06-14 00:00:00,4193.605471,2022-03-27: Inquiry for more information on a product; 2022-08-28: Request about delayed delivery
+166,shopper2049@eshop.com,Australia,Standard,2022-06-15 00:00:00,2023-06-15 00:00:00,7079.828606,2022-10-13: Complaint regarding order status; 2022-08-02: Complaint about product availability
+167,dealhunter9493@bestdeals.com,UK,Premium,2022-06-16 00:00:00,2023-06-16 00:00:00,5321.99079,2022-10-14: Request about product availability
+168,marketfan3720@eshop.com,USA,Standard,2022-06-17 00:00:00,2023-06-17 00:00:00,1427.94332,2022-06-03: Request for more information on a product; 2022-09-03: Request for more information on a product
+169,marketfan9256@buyeasy.com,Germany,VIP,2022-06-18 00:00:00,2023-06-18 00:00:00,4686.673211,2022-08-17: Complaint about payment issues
+170,buyer6927@shopworld.com,USA,Standard,2022-06-19 00:00:00,2023-06-19 00:00:00,3125.378447,2022-07-25: Complaint about product availability; 2022-10-29: Complaint regarding order status
+171,marketfan8693@bestdeals.com,Canada,Premium,2022-06-20 00:00:00,2023-06-20 00:00:00,9999.567046,2022-01-13: Complaint about membership benefits
+172,dealhunter559@buyeasy.com,Australia,VIP,2022-06-21 00:00:00,2023-06-21 00:00:00,-999,2022-06-06: Inquiry about delayed delivery
+173,shopper4070@bestdeals.com,USA,Premium,2022-06-22 00:00:00,2023-06-22 00:00:00,3565.109585,2022-07-10: Feedback about product availability; 2022-12-09: Inquiry regarding order status
+174,buyer4565@shopworld.com,Australia,Standard,2022-06-23 00:00:00,2023-06-23 00:00:00,3820.251895,2022-03-30: Feedback about payment issues; 2022-07-31: Request about payment issues; 2022-07-30: Complaint about payment issues
+175,marketfan8641@buyeasy.com,Germany,VIP,2022-06-24 00:00:00,2023-06-24 00:00:00,4685.814646,2022-09-13: Feedback for more information on a product; 2022-11-11: Request regarding order status; 2022-06-04: Request regarding order status
+176,buyer4500@eshop.com,Germany,Standard,2022-06-25 00:00:00,2023-06-25 00:00:00,102.9002542,2022-05-26: Inquiry about delayed delivery; 2022-05-27: Request for more information on a product; 2022-06-18: Request about product availability
+177,dealhunter7148@buyeasy.com,Australia,VIP,2022-06-26 00:00:00,2023-06-26 00:00:00,1264.652675,2022-05-07: Complaint about delayed delivery
+178,buyer6171@shopworld.com,USA,VIP,2022-06-27 00:00:00,2023-06-27 00:00:00,3485.674894,2022-01-13: Feedback regarding order status
+179,marketfan3506@shopworld.com,Australia,Standard,2022-06-28 00:00:00,2023-06-28 00:00:00,6432.032874,2022-02-07: Request about membership benefits; 2022-02-19: Complaint about product availability
+180,shopper1593@eshop.com,Australia,Standard,2022-06-29 00:00:00,2023-06-29 00:00:00,9272.793127,2022-11-07: Inquiry about payment issues
+181,dealhunter85@eshop.com,UK,VIP,2022-06-30 00:00:00,2023-06-30 00:00:00,4380.422738,2022-11-27: Complaint about delayed delivery; 2022-07-09: Inquiry for more information on a product
+182,dealhunter1934@bestdeals.com,Germany,VIP,2022-07-01 00:00:00,2023-07-01 00:00:00,1706.508194,2022-06-21: Complaint regarding order status
+183,shopper9137@bestdeals.com,USA,Standard,2022-07-02 00:00:00,2023-07-02 00:00:00,9728.979245,2022-03-21: Request about product availability; 2022-06-22: Complaint for more information on a product; 2022-06-06: Complaint for more information on a product
+184,dealhunter4122@shopworld.com,UK,VIP,2022-07-03 00:00:00,2023-07-03 00:00:00,911.3931256,2022-02-15: Inquiry regarding order status
+185,marketfan2268@eshop.com,UK,Standard,2022-07-04 00:00:00,2023-07-04 00:00:00,1238.849197,2022-02-16: Complaint about membership benefits; 2022-02-04: Request about payment issues
+186,marketfan5554@buyeasy.com,Germany,VIP,2022-07-05 00:00:00,2023-07-05 00:00:00,792.1337152,2022-11-20: Feedback about payment issues; 2022-11-13: Complaint for more information on a product; 2022-10-19: Request regarding order status
+187,shopper9155@eshop.com,USA,Premium,2022-07-06 00:00:00,2023-07-06 00:00:00,1520.78988,2022-09-07: Inquiry for more information on a product; 2022-09-19: Request about delayed delivery
+188,marketfan1729@bestdeals.com,Canada,Standard,2022-07-07 00:00:00,2023-07-07 00:00:00,7925.248812,2022-11-27: Feedback about product availability; 2022-09-23: Request about delayed delivery
+189,buyer1866@bestdeals.com,USA,VIP,2022-07-08 00:00:00,2023-07-08 00:00:00,9833.443412,2022-02-23: Feedback about delayed delivery
+190,invalid_email,Canada,VIP,2022-07-09 00:00:00,2023-07-09 00:00:00,5394.136401,2022-12-29: Inquiry about delayed delivery
+191,shopper1786@buyeasy.com,USA,VIP,2022-07-10 00:00:00,2023-07-10 00:00:00,5525.086079,2022-05-19: Request about membership benefits; 2022-07-05: Request regarding order status
+192,dealhunter5928@bestdeals.com,UK,Premium,2022-07-11 00:00:00,2023-07-11 00:00:00,2121.812974,2022-11-23: Feedback about delayed delivery
+193,marketfan4541@buyeasy.com,Australia,VIP,2022-07-12 00:00:00,2023-07-12 00:00:00,839.9583425,2022-08-31: Complaint about delayed delivery; 2022-10-30: Complaint regarding order status; 2022-06-29: Complaint about payment issues
+194,marketfan2720@buyeasy.com,Canada,Premium,2022-07-13 00:00:00,2023-07-13 00:00:00,1272.539456,2022-07-12: Inquiry about membership benefits; 2022-07-05: Feedback about payment issues; 2022-08-11: Feedback about product availability
+195,marketfan6254@buyeasy.com,Germany,Standard,2022-07-14 00:00:00,2023-07-14 00:00:00,2595.562713,2022-09-10: Request about product availability; 2022-11-02: Inquiry about product availability; 2022-03-31: Complaint about payment issues
+196,shopper7928@buyeasy.com,UK,Standard,2022-07-15 00:00:00,2023-07-15 00:00:00,7289.051142,2022-10-03: Feedback about membership benefits; 2022-07-01: Inquiry about product availability; 2022-02-19: Complaint about delayed delivery
+197,buyer4296@eshop.com,Germany,VIP,2022-07-16 00:00:00,2023-07-16 00:00:00,9015.802038,2022-11-23: Feedback about membership benefits; 2022-12-25: Feedback about payment issues; 2022-11-22: Inquiry for more information on a product
+198,buyer8270@shopworld.com,UK,VIP,2022-07-17 00:00:00,2023-07-17 00:00:00,2516.258208,2022-02-09: Inquiry about product availability; 2022-11-21: Inquiry about product availability
+199,buyer965@bestdeals.com,USA,Premium,2022-07-18 00:00:00,2023-07-18 00:00:00,2803.563436,2022-12-13: Request about delayed delivery; 2022-11-17: Inquiry about delayed delivery; 2022-09-29: Inquiry about payment issues
+200,marketfan9680@bestdeals.com,Germany,Standard,2022-07-19 00:00:00,2023-07-19 00:00:00,2103.283577,2022-02-03: Inquiry about delayed delivery
+201,buyer4853@buyeasy.com,UK,VIP,2022-07-20 00:00:00,2023-07-20 00:00:00,9141.126044,2022-08-19: Request regarding order status; 2022-09-08: Complaint regarding order status; 2022-06-11: Complaint about product availability
+202,buyer1935@bestdeals.com,UK,Standard,2022-07-21 00:00:00,2023-07-21 00:00:00,8482.681355,2022-03-27: Complaint about product availability; 2022-01-30: Feedback about product availability; 2022-09-26: Feedback about membership benefits
+203,shopper3569@buyeasy.com,USA,VIP,2022-07-22 00:00:00,2023-07-22 00:00:00,9440.107982,2022-12-14: Request about membership benefits
+204,dealhunter8240@shopworld.com,USA,VIP,2022-07-23 00:00:00,2023-07-23 00:00:00,951.2774769,2022-04-02: Inquiry about payment issues; 2022-04-23: Complaint for more information on a product
+205,buyer9604@bestdeals.com,Germany,VIP,2022-07-24 00:00:00,2023-07-24 00:00:00,7178.13137,2022-03-27: Request about delayed delivery; 2022-02-27: Complaint regarding order status
+206,buyer6371@shopworld.com,Germany,VIP,2022-07-25 00:00:00,2023-07-25 00:00:00,8302.691317,2022-08-24: Feedback regarding order status
+207,dealhunter5652@bestdeals.com,Australia,Standard,2022-07-26 00:00:00,2023-07-26 00:00:00,2033.256204,2022-12-31: Feedback about payment issues; 2022-09-26: Complaint for more information on a product; 2022-10-18: Complaint about membership benefits
+208,dealhunter156@shopworld.com,UK,Premium,2022-07-27 00:00:00,2023-07-27 00:00:00,2764.731686,2022-05-23: Complaint for more information on a product
+209,marketfan7907@eshop.com,Canada,VIP,2022-07-28 00:00:00,2023-07-28 00:00:00,2193.98043,2022-09-30: Feedback about product availability; 2022-01-12: Request about product availability
+210,marketfan5570@eshop.com,Germany,Premium,2022-07-29 00:00:00,2023-07-29 00:00:00,9326.077069,2022-11-06: Request about payment issues; 2022-02-25: Complaint regarding order status
+211,buyer5606@eshop.com,Canada,Standard,2022-07-30 00:00:00,2023-07-30 00:00:00,9097.249975,2022-12-29: Request regarding order status; 2022-01-28: Inquiry for more information on a product; 2022-07-20: Feedback about delayed delivery
+212,buyer3382@eshop.com,UK,Standard,2022-07-31 00:00:00,2023-07-31 00:00:00,1596.760472,2022-09-30: Inquiry for more information on a product; 2022-07-29: Feedback for more information on a product; 2022-12-21: Inquiry about delayed delivery
+213,shopper2617@eshop.com,USA,Standard,2022-08-01 00:00:00,2023-08-01 00:00:00,8110.07068,2022-02-23: Inquiry about membership benefits; 2022-10-21: Complaint regarding order status
+214,shopper2872@buyeasy.com,USA,Standard,2022-08-02 00:00:00,2023-08-02 00:00:00,326.4599318,2022-05-16: Request for more information on a product; 2022-06-11: Request regarding order status
+215,shopper8496@bestdeals.com,USA,VIP,2022-08-03 00:00:00,2023-08-03 00:00:00,4366.104291,2022-12-26: Inquiry about delayed delivery; 2022-10-01: Inquiry about product availability
+216,buyer9726@shopworld.com,Canada,Premium,2022-08-04 00:00:00,2023-08-04 00:00:00,673.9069801,2022-05-14: Request about membership benefits; 2022-12-27: Request about delayed delivery; 2022-11-11: Inquiry about delayed delivery
+217,buyer5534@shopworld.com,Germany,Standard,2022-08-05 00:00:00,2023-08-05 00:00:00,4802.445024,2022-01-29: Inquiry about payment issues; 2022-05-05: Complaint about product availability; 2022-07-06: Complaint about delayed delivery
+218,shopper3437@shopworld.com,Germany,Standard,2022-08-06 00:00:00,2023-08-06 00:00:00,1452.091857,2022-09-05: Feedback for more information on a product
+219,dealhunter5675@buyeasy.com,Canada,VIP,2022-08-07 00:00:00,2023-08-07 00:00:00,5984.518459,2022-04-26: Complaint about product availability; 2022-03-01: Request about payment issues
+220,dealhunter9823@buyeasy.com,Australia,VIP,2022-08-08 00:00:00,2023-08-08 00:00:00,9962.667343,2022-08-20: Complaint about delayed delivery; 2022-09-14: Request for more information on a product
+221,buyer7619@bestdeals.com,UK,Standard,2022-08-09 00:00:00,2023-08-09 00:00:00,604.9509475,2022-10-11: Request about payment issues
+222,invalid_email,UK,Premium,2022-08-10 00:00:00,2023-08-10 00:00:00,-999,2022-05-26: Inquiry about membership benefits; 2022-12-28: Request about payment issues; 2022-12-31: Request about membership benefits
+223,shopper2514@buyeasy.com,USA,VIP,2022-08-11 00:00:00,2023-08-11 00:00:00,3011.459763,2022-06-06: Feedback for more information on a product; 2022-03-29: Complaint about delayed delivery
+224,shopper1245@eshop.com,UK,Standard,2022-08-12 00:00:00,2023-08-12 00:00:00,2078.278013,2022-02-21: Complaint regarding order status; 2022-10-27: Feedback about product availability
+225,buyer3871@buyeasy.com,Canada,VIP,2022-08-13 00:00:00,2023-08-13 00:00:00,2184.335001,2022-06-14: Feedback about payment issues
+226,buyer2417@bestdeals.com,Australia,Premium,2022-08-14 00:00:00,2023-08-14 00:00:00,4749.000161,2022-09-21: Complaint about payment issues; 2022-11-25: Complaint regarding order status
+227,buyer4002@shopworld.com,Australia,VIP,2022-08-15 00:00:00,2023-08-15 00:00:00,6028.766364,2022-09-11: Feedback about delayed delivery
+228,dealhunter6124@eshop.com,UK,VIP,2022-08-16 00:00:00,2023-08-16 00:00:00,359.3268485,2022-01-30: Feedback regarding order status; 2022-04-27: Inquiry about payment issues
+229,shopper3506@shopworld.com,Germany,Premium,2022-08-17 00:00:00,2023-08-17 00:00:00,7596.812381,2022-06-14: Request for more information on a product
+230,shopper5686@shopworld.com,Germany,Premium,2022-08-18 00:00:00,2023-08-18 00:00:00,2268.606756,2022-09-20: Request about product availability; 2022-08-06: Complaint about membership benefits; 2022-02-20: Inquiry about payment issues
+231,dealhunter6587@bestdeals.com,Australia,Premium,2022-08-19 00:00:00,2023-08-19 00:00:00,6026.131308,2022-11-07: Feedback about payment issues
+232,shopper2665@shopworld.com,Australia,Standard,2022-08-20 00:00:00,2023-08-20 00:00:00,7683.596344,2022-06-14: Feedback regarding order status
+233,dealhunter1052@bestdeals.com,Canada,VIP,2022-08-21 00:00:00,2023-08-21 00:00:00,2013.14981,2022-10-04: Inquiry regarding order status; 2022-11-10: Inquiry about payment issues
+234,marketfan6100@buyeasy.com,Germany,Standard,2022-08-22 00:00:00,2023-08-22 00:00:00,9020.481303,2022-04-01: Feedback about product availability
+235,dealhunter7267@shopworld.com,UK,Premium,2022-08-23 00:00:00,2023-08-23 00:00:00,6391.263986,2023-01-01: Feedback about product availability; 2022-03-05: Request for more information on a product; 2022-11-26: Complaint for more information on a product
+236,buyer1839@bestdeals.com,UK,Standard,2022-08-24 00:00:00,2023-08-24 00:00:00,3388.221981,2022-10-31: Inquiry about product availability; 2022-04-10: Feedback regarding order status
+237,dealhunter7298@bestdeals.com,Australia,Premium,2022-08-25 00:00:00,2023-08-25 00:00:00,2500.816418,2022-02-17: Request about payment issues; 2022-03-13: Inquiry about membership benefits; 2022-03-19: Complaint about membership benefits
+238,shopper9570@eshop.com,USA,Standard,2022-08-26 00:00:00,2023-08-26 00:00:00,1482.297929,2022-06-11: Feedback regarding order status
+239,dealhunter4453@bestdeals.com,UK,Premium,2022-08-27 00:00:00,2023-08-27 00:00:00,2965.094939,2022-01-27: Complaint regarding order status; 2022-03-01: Complaint for more information on a product; 2022-07-17: Inquiry about membership benefits
+240,dealhunter1354@buyeasy.com,Australia,VIP,2022-08-28 00:00:00,2023-08-28 00:00:00,2817.573116,2022-06-12: Complaint about membership benefits; 2022-11-21: Inquiry about payment issues; 2022-03-01: Feedback for more information on a product
+241,shopper7967@buyeasy.com,Canada,Premium,2022-08-29 00:00:00,2023-08-29 00:00:00,1751.847063,2022-06-13: Inquiry about membership benefits; 2022-11-16: Complaint about membership benefits
+242,dealhunter4609@bestdeals.com,USA,Standard,2022-08-30 00:00:00,2023-08-30 00:00:00,6805.730549,2022-02-03: Feedback about delayed delivery
+243,marketfan1601@eshop.com,UK,Premium,2022-08-31 00:00:00,2023-08-31 00:00:00,3242.029142,2022-05-19: Request about membership benefits
+244,buyer2526@buyeasy.com,USA,Premium,2022-09-01 00:00:00,2023-09-01 00:00:00,8548.412466,2022-09-20: Request about membership benefits
+245,dealhunter313@buyeasy.com,USA,Premium,2022-09-02 00:00:00,2023-09-02 00:00:00,2934.508435,2022-10-14: Complaint about product availability; 2022-01-08: Inquiry for more information on a product; 2022-12-07: Complaint for more information on a product
+246,dealhunter4778@eshop.com,Germany,Premium,2022-09-03 00:00:00,2023-09-03 00:00:00,5516.94983,2022-04-27: Request regarding order status
+247,dealhunter2657@shopworld.com,Canada,Standard,2022-09-04 00:00:00,2023-09-04 00:00:00,3610.068196,2022-04-18: Inquiry about product availability; 2022-10-01: Inquiry about product availability
+248,dealhunter6628@buyeasy.com,Germany,Standard,2022-09-05 00:00:00,2023-09-05 00:00:00,3475.414325,2022-08-21: Feedback regarding order status; 2022-12-31: Feedback for more information on a product
+249,marketfan9556@bestdeals.com,Canada,Premium,2022-09-06 00:00:00,2023-09-06 00:00:00,6215.717132,2022-03-03: Feedback about payment issues; 2022-09-02: Inquiry about payment issues
+250,buyer234@bestdeals.com,Australia,Premium,2022-09-07 00:00:00,2023-09-07 00:00:00,6230.376014,2022-10-10: Complaint about product availability
+251,shopper4892@shopworld.com,Canada,VIP,2022-09-08 00:00:00,2023-09-08 00:00:00,1459.061506,2022-02-28: Feedback about membership benefits; 2022-02-23: Inquiry about delayed delivery
+252,dealhunter9197@bestdeals.com,Australia,Premium,2022-09-09 00:00:00,2023-09-09 00:00:00,9373.111616,2022-06-20: Complaint about membership benefits
+253,buyer9388@eshop.com,Germany,Standard,2022-09-10 00:00:00,2023-09-10 00:00:00,720.6889855,2022-12-28: Inquiry about payment issues
+254,marketfan7472@buyeasy.com,Canada,VIP,2022-09-11 00:00:00,2023-09-11 00:00:00,4603.490653,2022-05-04: Inquiry about payment issues
+255,marketfan9826@shopworld.com,Canada,VIP,2022-09-12 00:00:00,2023-09-12 00:00:00,4338.329947,2022-12-18: Feedback about product availability; 2022-05-30: Feedback about product availability
+256,dealhunter3241@buyeasy.com,Australia,VIP,2022-09-13 00:00:00,2023-09-13 00:00:00,1328.229621,2022-09-20: Complaint about membership benefits; 2022-01-12: Inquiry about payment issues
+257,invalid_email,Australia,Premium,2022-09-14 00:00:00,2023-09-14 00:00:00,2815.069325,2022-10-20: Request about payment issues; 2022-04-13: Inquiry for more information on a product; 2022-11-05: Feedback about payment issues
+258,marketfan9635@shopworld.com,Germany,Premium,2022-09-15 00:00:00,2023-09-15 00:00:00,1460.764523,2022-05-18: Request regarding order status; 2022-08-26: Feedback regarding order status
+259,buyer7172@buyeasy.com,Australia,Premium,2022-09-16 00:00:00,2023-09-16 00:00:00,4645.40378,2022-12-06: Feedback about payment issues; 2022-10-05: Request about delayed delivery
+260,dealhunter4923@shopworld.com,Germany,Premium,2022-09-17 00:00:00,2023-09-17 00:00:00,5528.668454,2022-10-23: Request about membership benefits; 2022-02-01: Inquiry about membership benefits
+261,buyer792@eshop.com,Australia,VIP,2022-09-18 00:00:00,2023-09-18 00:00:00,4355.197245,2022-12-31: Inquiry about product availability; 2022-07-07: Inquiry about product availability; 2022-02-01: Inquiry about membership benefits
+262,invalid_email,USA,VIP,2022-09-19 00:00:00,2023-09-19 00:00:00,9854.362849,2022-01-11: Feedback regarding order status; 2022-10-01: Complaint for more information on a product; 2022-04-22: Request about membership benefits
+263,buyer7041@eshop.com,UK,Standard,2022-09-20 00:00:00,2023-09-20 00:00:00,9518.384171,2022-02-18: Feedback about product availability
+264,marketfan4242@bestdeals.com,UK,Standard,2022-09-21 00:00:00,2023-09-21 00:00:00,2801.818731,2022-12-31: Request about delayed delivery
+265,dealhunter6500@bestdeals.com,USA,VIP,2022-09-22 00:00:00,2023-09-22 00:00:00,5709.854346,2022-01-09: Feedback for more information on a product; 2022-05-31: Feedback about product availability; 2022-03-03: Feedback regarding order status
+266,buyer7090@eshop.com,Canada,VIP,2022-09-23 00:00:00,2023-09-23 00:00:00,8132.800746,2022-09-30: Inquiry about product availability
+267,marketfan2093@eshop.com,USA,VIP,2022-09-24 00:00:00,2023-09-24 00:00:00,7353.097063,2022-09-29: Request about delayed delivery; 2022-03-07: Feedback about product availability; 2022-01-12: Feedback about product availability
+268,shopper5693@bestdeals.com,Canada,VIP,2022-09-25 00:00:00,2023-09-25 00:00:00,208.2561694,2022-11-19: Feedback about payment issues; 2022-06-13: Request about product availability; 2022-06-08: Request about product availability
+269,shopper4553@buyeasy.com,UK,Standard,2022-09-26 00:00:00,2023-09-26 00:00:00,5714.337571,2022-10-12: Feedback about product availability
+270,marketfan5945@bestdeals.com,USA,Premium,2022-09-27 00:00:00,2023-09-27 00:00:00,9165.600704,2022-10-01: Feedback about membership benefits; 2022-09-10: Feedback for more information on a product; 2022-07-03: Feedback about membership benefits
+271,invalid_email,Australia,Premium,2022-09-28 00:00:00,2023-09-28 00:00:00,9384.150456,2022-11-21: Request regarding order status; 2022-04-19: Feedback about payment issues; 2022-05-14: Request about membership benefits
+272,shopper5239@shopworld.com,Canada,Standard,2022-09-29 00:00:00,2023-09-29 00:00:00,7566.61388,2022-04-19: Complaint for more information on a product; 2022-09-10: Feedback about product availability
+273,marketfan3745@eshop.com,Australia,Premium,2022-09-30 00:00:00,2023-09-30 00:00:00,2369.207116,2022-12-06: Inquiry regarding order status
+274,shopper8712@buyeasy.com,Germany,Standard,2022-10-01 00:00:00,2023-10-01 00:00:00,975.3479126,2022-11-22: Request about product availability
+275,marketfan6885@buyeasy.com,USA,Standard,2022-10-02 00:00:00,2023-10-02 00:00:00,3654.142831,2022-06-21: Complaint for more information on a product; 2022-09-21: Complaint about delayed delivery
+276,marketfan7804@eshop.com,USA,Premium,2022-10-03 00:00:00,2023-10-03 00:00:00,4757.142356,2022-04-25: Feedback about delayed delivery; 2022-04-10: Inquiry about delayed delivery
+277,dealhunter3@bestdeals.com,UK,Standard,2022-10-04 00:00:00,2023-10-04 00:00:00,6085.884705,2022-08-03: Complaint regarding order status; 2022-02-04: Request for more information on a product
+278,shopper1789@bestdeals.com,USA,Standard,2022-10-05 00:00:00,2023-10-05 00:00:00,7114.178985,2022-12-06: Complaint regarding order status; 2022-05-16: Feedback about payment issues; 2022-12-26: Request for more information on a product
+279,buyer7755@bestdeals.com,USA,Premium,2022-10-06 00:00:00,2023-10-06 00:00:00,-999,2022-03-14: Request about membership benefits
+280,shopper2549@bestdeals.com,Germany,Premium,2022-10-07 00:00:00,2023-10-07 00:00:00,5858.444671,2022-07-25: Inquiry regarding order status; 2022-10-11: Inquiry about membership benefits; 2022-04-05: Feedback about product availability
+281,marketfan1329@eshop.com,Australia,VIP,2022-10-08 00:00:00,2023-10-08 00:00:00,2986.324428,2022-04-01: Inquiry for more information on a product; 2022-01-25: Inquiry about membership benefits; 2022-06-28: Complaint for more information on a product
+282,dealhunter4463@buyeasy.com,Canada,Premium,2022-10-09 00:00:00,2023-10-09 00:00:00,5016.05771,2022-09-24: Feedback for more information on a product
+283,buyer2449@shopworld.com,UK,Premium,2022-10-10 00:00:00,2023-10-10 00:00:00,9786.895206,2022-07-18: Feedback for more information on a product; 2022-04-10: Inquiry about delayed delivery; 2022-03-07: Feedback about delayed delivery
+284,dealhunter4818@bestdeals.com,Canada,VIP,2022-10-11 00:00:00,2023-10-11 00:00:00,8396.620701,2022-01-06: Request about payment issues; 2022-02-26: Complaint regarding order status; 2022-12-19: Inquiry about payment issues
+285,dealhunter7707@shopworld.com,USA,Premium,2022-10-12 00:00:00,2023-10-12 00:00:00,9390.870194,2022-04-24: Complaint about membership benefits; 2022-12-02: Inquiry about payment issues
+286,shopper4208@buyeasy.com,UK,Standard,2022-10-13 00:00:00,2023-10-13 00:00:00,2905.122962,2022-09-18: Feedback for more information on a product
+287,buyer8405@bestdeals.com,Canada,Standard,2022-10-14 00:00:00,2023-10-14 00:00:00,9857.269062,2022-02-11: Request about product availability; 2022-10-13: Request about product availability; 2022-03-25: Feedback about payment issues
+288,marketfan5387@shopworld.com,Australia,Standard,2022-10-15 00:00:00,2023-10-15 00:00:00,9942.89226,2022-09-30: Inquiry about payment issues
+289,shopper5284@buyeasy.com,Germany,Premium,2022-10-16 00:00:00,2023-10-16 00:00:00,601.382882,2022-06-06: Inquiry about payment issues
+290,invalid_email,Australia,Premium,2022-10-17 00:00:00,2023-10-17 00:00:00,4158.694582,2022-06-21: Feedback for more information on a product
+291,marketfan4564@shopworld.com,USA,VIP,2022-10-18 00:00:00,2023-10-18 00:00:00,7074.588758,2022-09-25: Request about product availability; 2022-07-07: Request regarding order status; 2022-01-07: Complaint about delayed delivery
+292,buyer5448@shopworld.com,Australia,Standard,2022-10-19 00:00:00,2023-10-19 00:00:00,6425.304929,2022-09-24: Inquiry about delayed delivery; 2022-12-24: Complaint about delayed delivery; 2022-07-23: Feedback about membership benefits
+293,shopper4641@buyeasy.com,USA,VIP,2022-10-20 00:00:00,2023-10-20 00:00:00,1525.593223,2022-02-05: Complaint for more information on a product; 2022-09-19: Inquiry about membership benefits; 2022-05-04: Complaint about delayed delivery
+294,buyer2618@bestdeals.com,USA,VIP,2022-10-21 00:00:00,2023-10-21 00:00:00,8742.781769,2022-02-27: Request about delayed delivery
+295,shopper2351@shopworld.com,Germany,VIP,2022-10-22 00:00:00,2023-10-22 00:00:00,6193.037926,2022-12-06: Complaint about product availability
+296,buyer4180@shopworld.com,USA,Premium,2022-10-23 00:00:00,2023-10-23 00:00:00,7737.489511,2022-03-19: Complaint about payment issues; 2022-03-07: Feedback regarding order status; 2022-08-07: Inquiry regarding order status
+297,shopper2499@shopworld.com,Australia,Standard,2022-10-24 00:00:00,2023-10-24 00:00:00,2312.296287,2022-07-10: Feedback for more information on a product; 2022-02-15: Complaint about membership benefits
+298,marketfan3747@shopworld.com,Canada,Standard,2022-10-25 00:00:00,2023-10-25 00:00:00,9376.127435,2022-05-16: Request about delayed delivery; 2022-01-07: Complaint about delayed delivery; 2022-01-14: Feedback about delayed delivery
+299,buyer7013@eshop.com,UK,VIP,2022-10-26 00:00:00,2023-10-26 00:00:00,1147.785187,2022-04-24: Request about payment issues; 2022-08-28: Feedback about payment issues; 2022-03-05: Feedback about delayed delivery
+300,marketfan5430@shopworld.com,Germany,VIP,2022-10-27 00:00:00,2023-10-27 00:00:00,9083.141833,2022-08-19: Complaint regarding order status; 2022-02-17: Complaint about membership benefits
+301,marketfan1518@buyeasy.com,Germany,VIP,2022-10-28 00:00:00,2023-10-28 00:00:00,1047.81787,2022-07-05: Request about membership benefits; 2022-09-23: Feedback about membership benefits; 2022-12-30: Complaint about payment issues
+302,buyer954@eshop.com,Australia,VIP,2022-10-29 00:00:00,2023-10-29 00:00:00,6660.631836,2022-05-24: Request about membership benefits; 2022-06-20: Complaint regarding order status; 2022-06-20: Complaint about product availability
+303,shopper7723@bestdeals.com,Germany,Premium,2022-10-30 00:00:00,2023-10-30 00:00:00,1851.009246,2022-09-02: Request for more information on a product; 2022-06-06: Complaint for more information on a product
+304,shopper1804@buyeasy.com,Germany,VIP,2022-10-31 00:00:00,2023-10-31 00:00:00,5580.926613,2022-06-17: Request about payment issues; 2022-01-06: Request about membership benefits
+305,shopper3440@bestdeals.com,UK,Standard,2022-11-01 00:00:00,2023-11-01 00:00:00,7574.964359,2022-01-27: Request for more information on a product
+306,dealhunter4175@shopworld.com,USA,VIP,2022-11-02 00:00:00,2023-11-02 00:00:00,1788.320541,2022-09-18: Complaint about delayed delivery; 2022-03-15: Complaint regarding order status; 2022-11-27: Request for more information on a product
+307,buyer405@shopworld.com,Australia,Premium,2022-11-03 00:00:00,2023-11-03 00:00:00,1971.958871,2022-01-27: Feedback about payment issues
+308,marketfan3331@bestdeals.com,USA,Premium,2022-11-04 00:00:00,2023-11-04 00:00:00,6386.98728,2022-03-15: Feedback regarding order status
+309,dealhunter5334@buyeasy.com,Australia,VIP,2022-11-05 00:00:00,2023-11-05 00:00:00,6797.15029,2022-02-10: Request regarding order status
+310,shopper4165@eshop.com,Germany,Standard,2022-11-06 00:00:00,2023-11-06 00:00:00,2869.292194,2022-11-11: Inquiry about product availability; 2022-12-14: Inquiry regarding order status; 2022-03-04: Feedback about delayed delivery
+311,dealhunter1484@eshop.com,Canada,Premium,2022-11-07 00:00:00,2023-11-07 00:00:00,-999,2022-05-02: Inquiry about product availability; 2022-11-06: Feedback about membership benefits; 2022-10-29: Inquiry for more information on a product
+312,dealhunter7343@eshop.com,Canada,Premium,2022-11-08 00:00:00,2023-11-08 00:00:00,5282.256135,2022-01-15: Request about payment issues; 2022-06-20: Inquiry about product availability
+313,buyer8205@eshop.com,USA,Standard,2022-11-09 00:00:00,2023-11-09 00:00:00,9548.674706,2022-12-22: Request about payment issues
+314,shopper3642@bestdeals.com,Canada,Premium,2022-11-10 00:00:00,2023-11-10 00:00:00,7256.621464,2022-11-23: Feedback about delayed delivery; 2022-01-20: Complaint for more information on a product; 2022-03-23: Complaint about payment issues
+315,marketfan1816@buyeasy.com,UK,Standard,2022-11-11 00:00:00,2023-11-11 00:00:00,5876.00577,2022-05-08: Feedback about membership benefits
+316,shopper3436@buyeasy.com,Australia,Premium,2022-11-12 00:00:00,2023-11-12 00:00:00,8738.084922,2022-11-14: Complaint for more information on a product; 2022-10-13: Feedback for more information on a product
+317,buyer4937@buyeasy.com,UK,Premium,2022-11-13 00:00:00,2023-11-13 00:00:00,7707.315304,2022-04-12: Feedback about payment issues; 2022-01-12: Inquiry about product availability; 2022-10-10: Request for more information on a product
+318,marketfan7863@buyeasy.com,UK,VIP,2022-11-14 00:00:00,2023-11-14 00:00:00,6416.228355,2022-03-07: Inquiry about payment issues; 2022-01-13: Request about membership benefits; 2022-08-27: Inquiry for more information on a product
+319,dealhunter8681@shopworld.com,Canada,Premium,2022-11-15 00:00:00,2023-11-15 00:00:00,6132.517572,2022-02-20: Inquiry about delayed delivery
+320,buyer9341@buyeasy.com,Germany,VIP,2022-11-16 00:00:00,2023-11-16 00:00:00,1490.190777,2022-04-25: Feedback for more information on a product
+321,marketfan3811@shopworld.com,USA,Premium,2022-11-17 00:00:00,2023-11-17 00:00:00,1069.750849,2022-08-21: Inquiry about membership benefits; 2022-02-12: Complaint regarding order status; 2022-02-15: Feedback regarding order status
+322,shopper3397@bestdeals.com,USA,Standard,2022-11-18 00:00:00,2023-11-18 00:00:00,7100.368924,2022-09-11: Complaint for more information on a product; 2022-05-27: Request about delayed delivery; 2022-11-14: Feedback about product availability
+323,buyer6753@buyeasy.com,USA,VIP,2022-11-19 00:00:00,2023-11-19 00:00:00,8893.407957,2022-03-13: Request about payment issues
+324,buyer5253@buyeasy.com,Germany,Premium,2022-11-20 00:00:00,2023-11-20 00:00:00,3749.287779,2022-07-03: Request about delayed delivery; 2022-01-17: Feedback about product availability
+325,shopper4749@eshop.com,USA,Standard,2022-11-21 00:00:00,2023-11-21 00:00:00,2011.270203,2022-04-14: Inquiry about product availability
+326,buyer1871@buyeasy.com,UK,Standard,2022-11-22 00:00:00,2023-11-22 00:00:00,2054.52191,2022-04-28: Feedback about membership benefits
+327,buyer773@buyeasy.com,Canada,VIP,2022-11-23 00:00:00,2023-11-23 00:00:00,2988.900754,2022-03-19: Request about membership benefits
+328,buyer4848@eshop.com,Germany,VIP,2022-11-24 00:00:00,2023-11-24 00:00:00,3138.564311,2022-05-24: Complaint for more information on a product
+329,dealhunter7366@eshop.com,USA,Premium,2022-11-25 00:00:00,2023-11-25 00:00:00,1254.69296,2023-01-01: Complaint about delayed delivery; 2022-12-18: Feedback regarding order status; 2022-12-18: Request for more information on a product
+330,buyer7430@shopworld.com,Australia,VIP,2022-11-26 00:00:00,2023-11-26 00:00:00,9001.480638,2022-02-24: Feedback about payment issues
+331,marketfan9143@shopworld.com,Australia,VIP,2022-11-27 00:00:00,2023-11-27 00:00:00,1078.896746,2022-06-01: Feedback for more information on a product
+332,marketfan3352@shopworld.com,Canada,Premium,2022-11-28 00:00:00,2023-11-28 00:00:00,7770.598359,2022-01-07: Feedback about payment issues; 2022-10-11: Complaint about delayed delivery
+333,dealhunter4873@bestdeals.com,Canada,VIP,2022-11-29 00:00:00,2023-11-29 00:00:00,1058.562086,2022-03-25: Request about membership benefits; 2022-04-24: Complaint about delayed delivery; 2022-07-16: Inquiry about product availability
+334,buyer9628@shopworld.com,UK,Premium,2022-11-30 00:00:00,2023-11-30 00:00:00,8243.580288,2022-08-22: Request about delayed delivery; 2022-01-22: Request about payment issues
+335,buyer7305@bestdeals.com,Canada,Standard,2022-12-01 00:00:00,2023-12-01 00:00:00,2897.292893,2022-11-25: Complaint about payment issues; 2022-10-23: Inquiry about product availability
+336,buyer2918@bestdeals.com,Canada,Premium,2022-12-02 00:00:00,2023-12-02 00:00:00,3419.895432,2022-07-04: Inquiry regarding order status
+337,dealhunter9458@shopworld.com,USA,Premium,2022-12-03 00:00:00,2023-12-03 00:00:00,8060.116499,2022-12-04: Complaint about product availability; 2022-02-07: Feedback about product availability
+338,buyer2502@eshop.com,UK,Standard,2022-12-04 00:00:00,2023-12-04 00:00:00,1972.598673,2022-10-05: Complaint about payment issues
+339,shopper4986@shopworld.com,USA,Standard,2022-12-05 00:00:00,2023-12-05 00:00:00,9515.400405,2022-02-13: Feedback regarding order status
+340,buyer2226@buyeasy.com,Germany,VIP,2022-12-06 00:00:00,2023-12-06 00:00:00,2450.394222,2022-10-19: Feedback about delayed delivery; 2022-10-06: Complaint about product availability
+341,buyer1709@bestdeals.com,USA,Standard,2022-12-07 00:00:00,2023-12-07 00:00:00,8082.070004,2022-06-03: Request about membership benefits
+342,marketfan2803@buyeasy.com,Australia,Standard,2022-12-08 00:00:00,2023-12-08 00:00:00,7645.173025,2022-02-08: Complaint about payment issues; 2022-02-20: Feedback about delayed delivery
+343,shopper4839@eshop.com,Canada,VIP,2022-12-09 00:00:00,2023-12-09 00:00:00,2964.24318,2022-12-10: Complaint about delayed delivery; 2022-09-28: Feedback about product availability
+344,buyer3683@eshop.com,USA,Standard,2022-12-10 00:00:00,2023-12-10 00:00:00,9843.566079,2022-11-09: Request about product availability; 2022-01-17: Request about membership benefits
+345,marketfan8422@bestdeals.com,Canada,VIP,2022-12-11 00:00:00,2023-12-11 00:00:00,1723.951632,2022-08-06: Feedback about payment issues; 2022-08-09: Inquiry for more information on a product
+346,dealhunter9700@bestdeals.com,Australia,Standard,2022-12-12 00:00:00,2023-12-12 00:00:00,4729.847588,2022-12-07: Request about payment issues; 2022-10-01: Request about payment issues
+347,buyer9202@buyeasy.com,Germany,Premium,2022-12-13 00:00:00,2023-12-13 00:00:00,7179.743507,2022-12-12: Feedback about product availability
+348,marketfan4959@buyeasy.com,Germany,Standard,2022-12-14 00:00:00,2023-12-14 00:00:00,419.0064467,2022-06-16: Complaint for more information on a product; 2022-12-17: Complaint about payment issues; 2022-10-26: Complaint about delayed delivery
+349,marketfan620@eshop.com,UK,Premium,2022-12-15 00:00:00,2023-12-15 00:00:00,9760.125928,2022-10-08: Request for more information on a product
+350,dealhunter5628@buyeasy.com,UK,Standard,2022-12-16 00:00:00,2023-12-16 00:00:00,9726.191084,2022-07-10: Feedback about delayed delivery
+351,dealhunter1655@bestdeals.com,USA,VIP,2022-12-17 00:00:00,2023-12-17 00:00:00,7498.317338,2022-07-22: Inquiry about product availability; 2022-10-26: Request about payment issues; 2022-09-08: Complaint about payment issues
+352,marketfan5273@buyeasy.com,Australia,VIP,2022-12-18 00:00:00,2023-12-18 00:00:00,9049.68444,2022-03-05: Complaint about delayed delivery; 2022-12-03: Feedback regarding order status
+353,shopper4342@shopworld.com,UK,VIP,2022-12-19 00:00:00,2023-12-19 00:00:00,612.9451999,2022-03-22: Feedback about payment issues; 2022-08-09: Inquiry regarding order status
+354,shopper4340@buyeasy.com,Germany,Premium,2022-12-20 00:00:00,2023-12-20 00:00:00,6535.55202,2022-01-07: Inquiry regarding order status; 2022-02-16: Complaint regarding order status; 2022-05-25: Request about payment issues
+355,shopper955@buyeasy.com,Germany,Premium,2022-12-21 00:00:00,2023-12-21 00:00:00,9840.864559,2022-08-05: Complaint about payment issues
+356,marketfan2440@eshop.com,Germany,Premium,2022-12-22 00:00:00,2023-12-22 00:00:00,3669.989489,2022-09-01: Request about delayed delivery; 2022-08-15: Inquiry about membership benefits
+357,shopper9439@eshop.com,USA,VIP,2022-12-23 00:00:00,2023-12-23 00:00:00,7414.477093,2022-11-15: Inquiry regarding order status; 2022-06-19: Feedback about payment issues
+358,shopper1247@shopworld.com,UK,VIP,2022-12-24 00:00:00,2023-12-24 00:00:00,7273.583556,2022-03-05: Inquiry about product availability; 2022-02-16: Complaint about membership benefits
+359,shopper6010@eshop.com,Australia,Premium,2022-12-25 00:00:00,2023-12-25 00:00:00,4834.291087,2022-07-04: Complaint about membership benefits; 2022-05-18: Inquiry about membership benefits; 2022-02-07: Feedback for more information on a product
+360,invalid_email,Canada,Standard,2022-12-26 00:00:00,2023-12-26 00:00:00,9404.508509,2022-12-26: Complaint about product availability; 2022-08-14: Feedback about delayed delivery
+361,marketfan8220@bestdeals.com,UK,Standard,2022-12-27 00:00:00,2023-12-27 00:00:00,6935.645324,2022-03-14: Complaint regarding order status; 2022-07-12: Request about membership benefits
+362,marketfan172@eshop.com,Germany,VIP,2022-12-28 00:00:00,2023-12-28 00:00:00,9702.214626,2022-04-18: Feedback regarding order status; 2022-06-11: Complaint about membership benefits
+363,shopper6345@eshop.com,UK,Premium,2022-12-29 00:00:00,2023-12-29 00:00:00,6764.364839,2022-06-10: Feedback about payment issues; 2022-07-13: Request about product availability; 2022-02-01: Feedback about delayed delivery
+364,marketfan1952@shopworld.com,USA,Standard,2022-12-30 00:00:00,2023-12-30 00:00:00,5126.654012,2022-07-14: Inquiry about delayed delivery
+365,dealhunter1761@bestdeals.com,Germany,VIP,2022-12-31 00:00:00,2023-12-31 00:00:00,-999,2022-05-10: Complaint about product availability; 2022-03-01: Inquiry about membership benefits; 2022-05-01: Complaint about membership benefits
+366,buyer359@buyeasy.com,Australia,Standard,2023-01-01 00:00:00,2024-01-01 00:00:00,6783.994114,2022-05-18: Request about payment issues; 2022-08-14: Feedback about delayed delivery
+367,shopper9998@bestdeals.com,UK,Standard,2023-01-02 00:00:00,2024-01-02 00:00:00,5011.260201,2022-06-25: Complaint about payment issues
+368,invalid_email,UK,Premium,2023-01-03 00:00:00,2024-01-03 00:00:00,5080.151686,2022-07-08: Feedback about delayed delivery; 2022-07-19: Request about product availability; 2022-09-15: Feedback regarding order status
+369,buyer3503@eshop.com,Germany,VIP,2023-01-04 00:00:00,2024-01-04 00:00:00,3901.414323,2022-06-14: Inquiry for more information on a product; 2022-03-30: Feedback about product availability
+370,buyer2188@bestdeals.com,UK,Premium,2023-01-05 00:00:00,2024-01-05 00:00:00,5410.092084,2022-07-14: Request about delayed delivery; 2022-03-21: Complaint about delayed delivery; 2022-01-17: Complaint about product availability
+371,buyer1370@shopworld.com,Australia,Premium,2023-01-06 00:00:00,2024-01-06 00:00:00,7744.722016,2022-11-23: Request about membership benefits; 2022-10-10: Inquiry about membership benefits
+372,dealhunter2371@eshop.com,USA,Standard,2023-01-07 00:00:00,2024-01-07 00:00:00,4484.815623,2022-10-20: Feedback about delayed delivery
+373,shopper2284@eshop.com,Australia,Standard,2023-01-08 00:00:00,2024-01-08 00:00:00,5874.181035,2022-07-09: Request about product availability; 2022-06-22: Complaint about delayed delivery; 2022-09-25: Feedback about membership benefits
+374,dealhunter5685@eshop.com,UK,VIP,2023-01-09 00:00:00,2024-01-09 00:00:00,174.5786485,2022-08-04: Complaint regarding order status
+375,buyer3402@shopworld.com,UK,Premium,2023-01-10 00:00:00,2024-01-10 00:00:00,2332.60627,2022-05-16: Feedback for more information on a product
+376,shopper4100@shopworld.com,Germany,VIP,2023-01-11 00:00:00,2024-01-11 00:00:00,2966.570275,2022-12-31: Inquiry for more information on a product
+377,shopper6665@eshop.com,Australia,Standard,2023-01-12 00:00:00,2024-01-12 00:00:00,9669.049839,2022-05-16: Request for more information on a product; 2022-02-06: Feedback about payment issues
+378,buyer8122@shopworld.com,UK,Standard,2023-01-13 00:00:00,2024-01-13 00:00:00,9302.152671,2022-04-01: Inquiry for more information on a product; 2022-02-01: Feedback about delayed delivery
+379,shopper3696@eshop.com,Australia,VIP,2023-01-14 00:00:00,2024-01-14 00:00:00,318.729831,2022-09-29: Inquiry about product availability; 2022-08-12: Complaint about payment issues; 2022-03-21: Inquiry about payment issues
+380,buyer2499@buyeasy.com,Australia,Standard,2023-01-15 00:00:00,2024-01-15 00:00:00,757.3489271,2022-09-19: Complaint about delayed delivery; 2022-06-08: Complaint about membership benefits; 2022-12-29: Feedback about payment issues
+381,marketfan6238@shopworld.com,USA,Premium,2023-01-16 00:00:00,2024-01-16 00:00:00,5420.39157,2022-05-01: Request regarding order status; 2022-07-02: Request regarding order status
+382,shopper1130@shopworld.com,Germany,Standard,2023-01-17 00:00:00,2024-01-17 00:00:00,4435.235964,2022-04-25: Inquiry regarding order status; 2022-03-08: Complaint for more information on a product; 2022-04-16: Inquiry about delayed delivery
+383,dealhunter5276@shopworld.com,Canada,Standard,2023-01-18 00:00:00,2024-01-18 00:00:00,9862.549706,2022-12-24: Request about delayed delivery
+384,buyer4330@bestdeals.com,USA,Standard,2023-01-19 00:00:00,2024-01-19 00:00:00,4240.218567,2022-01-11: Inquiry about product availability; 2022-12-25: Feedback about product availability; 2022-03-02: Request about membership benefits
+385,buyer3265@bestdeals.com,Germany,VIP,2023-01-20 00:00:00,2024-01-20 00:00:00,722.1998426,2022-06-16: Complaint about membership benefits; 2022-10-23: Feedback about membership benefits
+386,buyer8597@bestdeals.com,Germany,Premium,2023-01-21 00:00:00,2024-01-21 00:00:00,3034.924005,2022-12-31: Inquiry about product availability; 2022-01-14: Request for more information on a product
+387,dealhunter5546@shopworld.com,Australia,VIP,2023-01-22 00:00:00,2024-01-22 00:00:00,1538.769469,2022-07-16: Feedback about product availability; 2022-02-07: Inquiry about product availability
+388,buyer6086@shopworld.com,Australia,VIP,2023-01-23 00:00:00,2024-01-23 00:00:00,605.7689857,2022-05-29: Complaint about membership benefits; 2022-07-12: Feedback for more information on a product
+389,shopper5044@shopworld.com,Australia,VIP,2023-01-24 00:00:00,2024-01-24 00:00:00,1287.387496,2022-10-03: Request about delayed delivery
+390,buyer3344@buyeasy.com,Australia,Standard,2023-01-25 00:00:00,2024-01-25 00:00:00,4088.777195,2022-09-11: Feedback for more information on a product
+391,dealhunter6486@buyeasy.com,Canada,VIP,2023-01-26 00:00:00,2024-01-26 00:00:00,5822.865429,2022-08-04: Inquiry about product availability
+392,buyer277@bestdeals.com,Germany,Standard,2023-01-27 00:00:00,2024-01-27 00:00:00,6262.187107,2022-02-09: Inquiry about payment issues
+393,marketfan1635@bestdeals.com,Canada,Standard,2023-01-28 00:00:00,2024-01-28 00:00:00,5380.565276,2022-08-10: Inquiry regarding order status; 2022-11-19: Inquiry about membership benefits; 2022-01-09: Request for more information on a product
+394,buyer749@shopworld.com,Germany,Premium,2023-01-29 00:00:00,2024-01-29 00:00:00,4325.916897,2022-06-20: Complaint regarding order status; 2022-02-24: Feedback about membership benefits
+395,dealhunter7537@shopworld.com,UK,Standard,2023-01-30 00:00:00,2024-01-30 00:00:00,5954.021226,2022-05-19: Complaint about delayed delivery; 2022-04-25: Inquiry regarding order status
+396,buyer4175@bestdeals.com,USA,Premium,2023-01-31 00:00:00,2024-01-31 00:00:00,6775.411922,2022-07-09: Request about membership benefits; 2022-11-02: Request for more information on a product
+397,marketfan2740@shopworld.com,Germany,Standard,2023-02-01 00:00:00,2024-02-01 00:00:00,-999,2022-05-05: Complaint regarding order status; 2022-04-23: Feedback for more information on a product; 2022-12-30: Feedback for more information on a product
+398,shopper2206@eshop.com,Australia,VIP,2023-02-02 00:00:00,2024-02-02 00:00:00,9868.742989,2022-03-18: Complaint about product availability; 2022-05-22: Request for more information on a product; 2022-10-23: Inquiry about membership benefits
+399,shopper4329@eshop.com,Canada,Standard,2023-02-03 00:00:00,2024-02-03 00:00:00,4146.250386,2022-11-16: Feedback about product availability
+400,shopper5486@eshop.com,Canada,VIP,2023-02-04 00:00:00,2024-02-04 00:00:00,3758.51502,2022-06-09: Request for more information on a product; 2022-01-20: Complaint about product availability; 2022-04-13: Complaint about membership benefits
+401,marketfan5084@eshop.com,Canada,Premium,2023-02-05 00:00:00,2024-02-05 00:00:00,282.8964898,2022-03-31: Complaint about product availability; 2022-05-12: Complaint about delayed delivery; 2022-11-06: Inquiry about membership benefits
+402,buyer536@eshop.com,Australia,Standard,2023-02-06 00:00:00,2024-02-06 00:00:00,9889.229866,2022-11-13: Inquiry for more information on a product; 2022-10-03: Complaint for more information on a product; 2022-12-23: Request about product availability
+403,shopper9177@bestdeals.com,Germany,VIP,2023-02-07 00:00:00,2024-02-07 00:00:00,7889.235156,2022-01-03: Feedback about delayed delivery; 2022-09-02: Request about product availability
+404,buyer1479@shopworld.com,USA,Premium,2023-02-08 00:00:00,2024-02-08 00:00:00,876.2797793,2022-10-29: Complaint about payment issues; 2022-06-03: Feedback for more information on a product
+405,marketfan9524@shopworld.com,UK,Premium,2023-02-09 00:00:00,2024-02-09 00:00:00,2008.460478,2022-12-06: Feedback about delayed delivery; 2022-12-10: Request regarding order status
+406,dealhunter6627@buyeasy.com,Canada,VIP,2023-02-10 00:00:00,2024-02-10 00:00:00,6559.423826,2022-07-05: Inquiry for more information on a product; 2022-02-28: Feedback about delayed delivery; 2022-03-03: Feedback about delayed delivery
+407,marketfan3255@shopworld.com,Germany,Standard,2023-02-11 00:00:00,2024-02-11 00:00:00,4085.228129,2022-02-11: Complaint regarding order status; 2022-10-19: Request about payment issues
+408,buyer9313@bestdeals.com,UK,Premium,2023-02-12 00:00:00,2024-02-12 00:00:00,2518.050544,2022-01-22: Inquiry for more information on a product
+409,dealhunter4689@shopworld.com,UK,VIP,2023-02-13 00:00:00,2024-02-13 00:00:00,5872.111996,2022-05-01: Complaint regarding order status; 2022-03-02: Inquiry for more information on a product
+410,buyer1817@eshop.com,Australia,Premium,2023-02-14 00:00:00,2024-02-14 00:00:00,8023.234075,2022-12-04: Inquiry about payment issues; 2022-04-16: Complaint about delayed delivery; 2022-05-18: Complaint about delayed delivery
+411,buyer4005@bestdeals.com,UK,Standard,2023-02-15 00:00:00,2024-02-15 00:00:00,4508.419885,2022-07-20: Request about delayed delivery; 2022-12-02: Inquiry about membership benefits
+412,marketfan9855@buyeasy.com,USA,Standard,2023-02-16 00:00:00,2024-02-16 00:00:00,4454.563817,2022-01-22: Request for more information on a product
+413,shopper6346@shopworld.com,UK,VIP,2023-02-17 00:00:00,2024-02-17 00:00:00,8027.232842,2022-08-21: Feedback for more information on a product; 2022-02-28: Request about product availability
+414,buyer8344@shopworld.com,Australia,Standard,2023-02-18 00:00:00,2024-02-18 00:00:00,7452.621271,2022-11-22: Inquiry about payment issues
+415,dealhunter3675@buyeasy.com,USA,Standard,2023-02-19 00:00:00,2024-02-19 00:00:00,2559.154286,2022-05-28: Inquiry about membership benefits; 2022-03-14: Feedback regarding order status; 2022-11-15: Request about delayed delivery
+416,marketfan9470@eshop.com,Germany,Standard,2023-02-20 00:00:00,2024-02-20 00:00:00,4756.159439,2022-06-02: Request regarding order status; 2022-01-23: Complaint for more information on a product; 2022-08-26: Complaint about payment issues
+417,buyer7096@eshop.com,Australia,VIP,2023-02-21 00:00:00,2024-02-21 00:00:00,3623.482726,2022-08-27: Complaint for more information on a product; 2022-04-02: Feedback about payment issues
+418,shopper4878@buyeasy.com,Australia,VIP,2023-02-22 00:00:00,2024-02-22 00:00:00,253.8847829,2022-03-19: Complaint about payment issues
+419,shopper829@eshop.com,USA,VIP,2023-02-23 00:00:00,2024-02-23 00:00:00,6006.830496,2022-08-07: Feedback about product availability
+420,shopper4698@buyeasy.com,UK,VIP,2023-02-24 00:00:00,2024-02-24 00:00:00,3534.337832,2022-07-20: Complaint about membership benefits; 2022-07-22: Inquiry about product availability; 2022-05-22: Request regarding order status
+421,shopper283@shopworld.com,Australia,Standard,2023-02-25 00:00:00,2024-02-25 00:00:00,3173.022112,2022-11-24: Inquiry about product availability; 2022-03-08: Feedback about delayed delivery; 2022-10-23: Request about membership benefits
+422,marketfan7345@shopworld.com,Australia,Standard,2023-02-26 00:00:00,2024-02-26 00:00:00,6445.462186,2022-10-02: Complaint about payment issues
+423,buyer1019@bestdeals.com,UK,Standard,2023-02-27 00:00:00,2024-02-27 00:00:00,577.7475036,2022-03-27: Feedback about payment issues; 2022-08-24: Complaint about payment issues; 2022-11-11: Feedback for more information on a product
+424,dealhunter3672@shopworld.com,Canada,Standard,2023-02-28 00:00:00,2024-02-28 00:00:00,9632.36719,2022-07-19: Complaint regarding order status; 2022-10-12: Request for more information on a product
+425,dealhunter6309@shopworld.com,Germany,Standard,2023-03-01 00:00:00,2024-02-29 00:00:00,4088.974381,2022-01-01: Inquiry for more information on a product; 2022-09-18: Request about payment issues; 2022-06-20: Request about delayed delivery
+426,shopper817@bestdeals.com,Germany,Premium,2023-03-02 00:00:00,2024-03-01 00:00:00,868.2516656,2022-06-30: Request about product availability; 2022-10-07: Request regarding order status; 2022-03-19: Inquiry about product availability
+427,marketfan8425@eshop.com,UK,VIP,2023-03-03 00:00:00,2024-03-02 00:00:00,3181.266897,2022-08-31: Feedback about payment issues; 2022-08-27: Inquiry about delayed delivery
+428,dealhunter9497@shopworld.com,USA,Premium,2023-03-04 00:00:00,2024-03-03 00:00:00,1715.121292,2022-03-13: Feedback about delayed delivery; 2022-10-13: Complaint about product availability
+429,marketfan764@eshop.com,Australia,Premium,2023-03-05 00:00:00,2024-03-04 00:00:00,7318.455487,2022-06-08: Request for more information on a product; 2022-04-11: Inquiry about product availability
+430,dealhunter309@bestdeals.com,UK,VIP,2023-03-06 00:00:00,2024-03-05 00:00:00,4401.523813,2022-05-22: Complaint about product availability
+431,dealhunter5311@eshop.com,UK,Premium,2023-03-07 00:00:00,2024-03-06 00:00:00,-999,2022-06-30: Complaint about delayed delivery; 2022-08-28: Complaint about delayed delivery
+432,dealhunter1637@shopworld.com,Canada,Premium,2023-03-08 00:00:00,2024-03-07 00:00:00,8964.232153,2022-05-07: Complaint for more information on a product; 2022-03-27: Complaint for more information on a product; 2022-08-04: Feedback about payment issues
+433,shopper6964@shopworld.com,UK,Standard,2023-03-09 00:00:00,2024-03-08 00:00:00,5164.728424,2022-01-29: Feedback about payment issues; 2022-01-22: Feedback for more information on a product
+434,marketfan5935@bestdeals.com,Australia,Premium,2023-03-10 00:00:00,2024-03-09 00:00:00,1153.768497,2022-11-17: Feedback for more information on a product
+435,shopper1654@buyeasy.com,USA,Standard,2023-03-11 00:00:00,2024-03-10 00:00:00,1636.143663,2022-08-01: Complaint about product availability; 2022-07-29: Request for more information on a product; 2022-12-14: Request about payment issues
+436,marketfan2986@shopworld.com,USA,Premium,2023-03-12 00:00:00,2024-03-11 00:00:00,7279.817614,2022-08-01: Inquiry regarding order status; 2022-06-10: Inquiry about product availability
+437,shopper7487@shopworld.com,Canada,Standard,2023-03-13 00:00:00,2024-03-12 00:00:00,4188.318611,2022-03-17: Inquiry about membership benefits; 2022-12-27: Request about payment issues; 2022-04-04: Request regarding order status
+438,shopper4258@bestdeals.com,Canada,Standard,2023-03-14 00:00:00,2024-03-13 00:00:00,7539.928611,2022-12-16: Request about payment issues; 2022-03-31: Inquiry regarding order status
+439,dealhunter2922@buyeasy.com,UK,VIP,2023-03-15 00:00:00,2024-03-14 00:00:00,-999,2022-05-02: Inquiry regarding order status; 2022-08-24: Inquiry about membership benefits
+440,buyer8137@eshop.com,UK,Standard,2023-03-16 00:00:00,2024-03-15 00:00:00,1309.51148,2022-10-13: Request regarding order status; 2022-08-01: Inquiry about delayed delivery
+441,buyer8764@buyeasy.com,Germany,Premium,2023-03-17 00:00:00,2024-03-16 00:00:00,2849.796308,2022-08-28: Feedback about membership benefits
+442,buyer2372@buyeasy.com,Australia,Standard,2023-03-18 00:00:00,2024-03-17 00:00:00,6031.233284,2022-11-26: Complaint for more information on a product
+443,buyer6285@eshop.com,USA,VIP,2023-03-19 00:00:00,2024-03-18 00:00:00,3690.022393,2022-04-10: Complaint about membership benefits
+444,invalid_email,Australia,Premium,2023-03-20 00:00:00,2024-03-19 00:00:00,5083.29419,2022-10-08: Inquiry regarding order status; 2022-09-01: Request about delayed delivery; 2022-10-10: Feedback regarding order status
+445,dealhunter5594@eshop.com,UK,Standard,2023-03-21 00:00:00,2024-03-20 00:00:00,2402.959607,2022-05-12: Inquiry about membership benefits; 2022-11-29: Request about delayed delivery
+446,marketfan6259@shopworld.com,Germany,VIP,2023-03-22 00:00:00,2024-03-21 00:00:00,5187.343784,2022-07-04: Request for more information on a product; 2022-10-21: Feedback regarding order status
+447,marketfan5733@eshop.com,USA,VIP,2023-03-23 00:00:00,2024-03-22 00:00:00,8405.237302,2022-10-01: Complaint for more information on a product; 2022-03-18: Feedback for more information on a product
+448,shopper9857@shopworld.com,USA,Premium,2023-03-24 00:00:00,2024-03-23 00:00:00,4676.146348,2022-07-09: Request about product availability
+449,buyer6540@shopworld.com,Germany,Standard,2023-03-25 00:00:00,2024-03-24 00:00:00,7312.499867,2022-11-12: Request about membership benefits; 2022-08-27: Feedback about product availability; 2022-02-25: Request about payment issues
+450,shopper7780@eshop.com,USA,Premium,2023-03-26 00:00:00,2024-03-25 00:00:00,7536.835743,2022-01-31: Feedback for more information on a product; 2022-08-15: Complaint about payment issues
+451,buyer5417@buyeasy.com,UK,Standard,2023-03-27 00:00:00,2024-03-26 00:00:00,9484.144685,2022-12-20: Request regarding order status; 2022-04-12: Request for more information on a product
+452,shopper4803@shopworld.com,USA,Standard,2023-03-28 00:00:00,2024-03-27 00:00:00,8687.703156,2022-11-20: Request about membership benefits; 2022-05-16: Inquiry for more information on a product; 2022-07-31: Feedback about product availability
+453,marketfan5624@bestdeals.com,Germany,VIP,2023-03-29 00:00:00,2024-03-28 00:00:00,-999,2022-03-24: Feedback about payment issues; 2022-02-25: Request about payment issues; 2022-05-11: Request about membership benefits
+454,dealhunter5229@eshop.com,Canada,VIP,2023-03-30 00:00:00,2024-03-29 00:00:00,5587.952876,2022-05-27: Request about payment issues; 2022-09-15: Request about payment issues
+455,shopper7777@bestdeals.com,Canada,Premium,2023-03-31 00:00:00,2024-03-30 00:00:00,3051.486973,2022-10-15: Feedback about membership benefits; 2022-05-18: Complaint about delayed delivery
+456,dealhunter8431@bestdeals.com,UK,Standard,2023-04-01 00:00:00,2024-03-31 00:00:00,210.2839098,2022-12-23: Complaint about payment issues
+457,shopper4778@eshop.com,Australia,Standard,2023-04-02 00:00:00,2024-04-01 00:00:00,2776.335704,2022-06-15: Complaint about delayed delivery; 2022-08-09: Feedback about membership benefits
+458,marketfan5204@bestdeals.com,Australia,Premium,2023-04-03 00:00:00,2024-04-02 00:00:00,4049.321045,2022-12-07: Complaint about membership benefits
+459,buyer643@buyeasy.com,Germany,Premium,2023-04-04 00:00:00,2024-04-03 00:00:00,8026.291897,2022-06-13: Complaint about membership benefits; 2022-09-17: Feedback regarding order status; 2022-01-09: Request regarding order status
+460,buyer1410@buyeasy.com,Canada,Premium,2023-04-05 00:00:00,2024-04-04 00:00:00,9186.698389,2022-07-30: Inquiry regarding order status; 2022-04-25: Feedback for more information on a product
+461,shopper1039@shopworld.com,Canada,Premium,2023-04-06 00:00:00,2024-04-05 00:00:00,5052.673757,2022-05-19: Inquiry for more information on a product
+462,dealhunter399@eshop.com,Germany,VIP,2023-04-07 00:00:00,2024-04-06 00:00:00,2035.661303,2022-02-27: Inquiry about product availability; 2022-04-20: Request about membership benefits; 2022-05-20: Feedback regarding order status
+463,shopper417@eshop.com,Canada,VIP,2023-04-08 00:00:00,2024-04-07 00:00:00,3663.864773,2022-05-13: Inquiry about membership benefits; 2022-03-06: Complaint about payment issues
+464,shopper9368@shopworld.com,USA,VIP,2023-04-09 00:00:00,2024-04-08 00:00:00,9467.234497,2022-02-14: Request regarding order status; 2022-09-24: Request about payment issues
+465,dealhunter6306@eshop.com,Germany,VIP,2023-04-10 00:00:00,2024-04-09 00:00:00,2890.761598,2022-04-04: Request about payment issues; 2022-02-23: Complaint for more information on a product; 2022-09-18: Feedback about product availability
+466,dealhunter5270@shopworld.com,Australia,Standard,2023-04-11 00:00:00,2024-04-10 00:00:00,6760.761564,2022-11-17: Request for more information on a product; 2022-11-09: Feedback regarding order status
+467,buyer5095@buyeasy.com,Australia,VIP,2023-04-12 00:00:00,2024-04-11 00:00:00,769.2104774,2022-10-28: Complaint about membership benefits; 2022-03-15: Feedback about payment issues; 2022-02-26: Request regarding order status
+468,invalid_email,Canada,Premium,2023-04-13 00:00:00,2024-04-12 00:00:00,1316.530653,2022-10-31: Request about payment issues; 2022-11-14: Feedback about delayed delivery
+469,dealhunter5474@buyeasy.com,USA,VIP,2023-04-14 00:00:00,2024-04-13 00:00:00,8712.657988,2022-08-17: Feedback about payment issues
+470,buyer8235@eshop.com,USA,Standard,2023-04-15 00:00:00,2024-04-14 00:00:00,4613.062595,2022-05-13: Request about payment issues; 2022-08-30: Inquiry about membership benefits
+471,marketfan2278@shopworld.com,USA,VIP,2023-04-16 00:00:00,2024-04-15 00:00:00,2120.36788,2022-03-17: Feedback about membership benefits; 2022-04-30: Request about product availability; 2022-11-19: Request about delayed delivery
+472,marketfan5079@buyeasy.com,Germany,Premium,2023-04-17 00:00:00,2024-04-16 00:00:00,4616.450768,2022-01-21: Inquiry about product availability; 2022-02-26: Feedback regarding order status; 2022-07-07: Inquiry about product availability
+473,marketfan8859@buyeasy.com,UK,Premium,2023-04-18 00:00:00,2024-04-17 00:00:00,6856.964156,2022-11-05: Feedback about product availability; 2022-02-20: Complaint regarding order status
+474,shopper9777@buyeasy.com,Canada,Premium,2023-04-19 00:00:00,2024-04-18 00:00:00,-999,2022-07-07: Request about payment issues; 2022-12-27: Feedback about payment issues; 2022-04-03: Feedback about membership benefits
+475,dealhunter2589@shopworld.com,UK,Standard,2023-04-20 00:00:00,2024-04-19 00:00:00,131.2353892,2022-01-26: Complaint for more information on a product; 2022-07-26: Complaint about product availability
+476,dealhunter4548@eshop.com,USA,VIP,2023-04-21 00:00:00,2024-04-20 00:00:00,9013.724554,2022-12-08: Request about membership benefits
+477,marketfan9503@bestdeals.com,USA,Premium,2023-04-22 00:00:00,2024-04-21 00:00:00,2381.526601,2022-03-26: Request about payment issues; 2022-09-03: Request about membership benefits
+478,dealhunter9327@buyeasy.com,USA,Standard,2023-04-23 00:00:00,2024-04-22 00:00:00,4699.241212,2022-07-07: Inquiry for more information on a product; 2022-01-20: Complaint about product availability
+479,marketfan2508@buyeasy.com,Germany,Premium,2023-04-24 00:00:00,2024-04-23 00:00:00,5951.380249,2022-01-26: Complaint regarding order status
+480,dealhunter5185@bestdeals.com,UK,Standard,2023-04-25 00:00:00,2024-04-24 00:00:00,3224.69688,2022-09-30: Request about payment issues; 2022-04-27: Feedback about delayed delivery
+481,shopper3737@eshop.com,UK,VIP,2023-04-26 00:00:00,2024-04-25 00:00:00,5197.213207,2022-11-29: Request for more information on a product
+482,buyer9173@shopworld.com,Australia,Premium,2023-04-27 00:00:00,2024-04-26 00:00:00,3012.297768,2022-02-04: Inquiry for more information on a product
+483,marketfan3882@bestdeals.com,Australia,Premium,2023-04-28 00:00:00,2024-04-27 00:00:00,8366.584789,2022-01-02: Inquiry regarding order status; 2022-03-21: Complaint regarding order status
+484,marketfan6553@bestdeals.com,Canada,Standard,2023-04-29 00:00:00,2024-04-28 00:00:00,7432.344821,2022-12-13: Complaint about delayed delivery; 2022-06-10: Inquiry about product availability; 2022-11-10: Feedback regarding order status
+485,dealhunter9063@shopworld.com,USA,Premium,2023-04-30 00:00:00,2024-04-29 00:00:00,4197.785575,2022-02-17: Feedback regarding order status; 2022-12-17: Inquiry about membership benefits; 2022-03-23: Inquiry regarding order status
+486,marketfan6875@bestdeals.com,UK,VIP,2023-05-01 00:00:00,2024-04-30 00:00:00,4727.652257,2022-08-15: Feedback regarding order status; 2022-04-02: Inquiry about delayed delivery
+487,buyer4485@eshop.com,Germany,VIP,2023-05-02 00:00:00,2024-05-01 00:00:00,9499.495904,2022-10-01: Request regarding order status; 2022-01-09: Feedback about membership benefits
+488,buyer4939@eshop.com,USA,Standard,2023-05-03 00:00:00,2024-05-02 00:00:00,8039.789327,2022-04-26: Complaint for more information on a product; 2022-02-28: Complaint for more information on a product
+489,buyer9943@shopworld.com,Germany,Premium,2023-05-04 00:00:00,2024-05-03 00:00:00,4996.204057,2022-09-30: Complaint about delayed delivery; 2022-08-27: Feedback about membership benefits
+490,marketfan1492@shopworld.com,Germany,Standard,2023-05-05 00:00:00,2024-05-04 00:00:00,9546.771328,2022-10-28: Feedback about membership benefits; 2022-01-26: Request for more information on a product
+491,dealhunter5656@bestdeals.com,USA,Premium,2023-05-06 00:00:00,2024-05-05 00:00:00,6093.318399,2022-05-05: Request regarding order status
+492,buyer8153@buyeasy.com,Germany,Standard,2023-05-07 00:00:00,2024-05-06 00:00:00,1674.449999,2022-11-02: Complaint about payment issues; 2022-07-12: Complaint about payment issues
+493,shopper4977@buyeasy.com,Australia,VIP,2023-05-08 00:00:00,2024-05-07 00:00:00,2219.649562,2022-12-24: Inquiry regarding order status; 2022-02-10: Inquiry regarding order status; 2022-10-31: Complaint about product availability
+494,shopper2704@buyeasy.com,USA,VIP,2023-05-09 00:00:00,2024-05-08 00:00:00,8015.577813,2022-03-08: Complaint for more information on a product; 2022-01-11: Inquiry about membership benefits; 2022-06-23: Feedback about membership benefits
+495,shopper6658@shopworld.com,Canada,VIP,2023-05-10 00:00:00,2024-05-09 00:00:00,3652.268742,2022-06-02: Request about membership benefits
+496,marketfan6234@shopworld.com,Germany,VIP,2023-05-11 00:00:00,2024-05-10 00:00:00,3985.762956,2022-08-06: Feedback about membership benefits; 2022-08-12: Inquiry regarding order status
+497,marketfan8451@shopworld.com,Australia,Premium,2023-05-12 00:00:00,2024-05-11 00:00:00,9582.828715,2022-11-29: Complaint about membership benefits; 2022-07-06: Request for more information on a product; 2022-02-01: Feedback about product availability
+498,marketfan3629@buyeasy.com,Canada,VIP,2023-05-13 00:00:00,2024-05-12 00:00:00,7854.209927,2022-11-12: Inquiry about product availability; 2022-02-27: Feedback about delayed delivery; 2022-06-05: Complaint regarding order status
+499,buyer8943@buyeasy.com,Australia,Premium,2023-05-14 00:00:00,2024-05-13 00:00:00,8260.235405,2022-10-29: Request about payment issues
+500,dealhunter5868@bestdeals.com,UK,Standard,2023-05-15 00:00:00,2024-05-14 00:00:00,2704.557735,2022-03-29: Complaint about payment issues
+501,dealhunter3068@shopworld.com,USA,Standard,2023-05-16 00:00:00,2024-05-15 00:00:00,2603.087647,2022-04-04: Inquiry about delayed delivery; 2022-09-11: Complaint about delayed delivery; 2022-12-04: Complaint for more information on a product
+502,marketfan685@buyeasy.com,Australia,VIP,2023-05-17 00:00:00,2024-05-16 00:00:00,356.6189962,2022-03-17: Inquiry about product availability; 2022-09-11: Feedback regarding order status
+503,buyer3118@shopworld.com,USA,Standard,2023-05-18 00:00:00,2024-05-17 00:00:00,8399.565468,2022-10-28: Request about payment issues; 2022-01-14: Complaint about delayed delivery
+504,shopper2332@eshop.com,UK,VIP,2023-05-19 00:00:00,2024-05-18 00:00:00,2971.605887,2022-07-10: Complaint about product availability
+505,buyer6764@buyeasy.com,UK,VIP,2023-05-20 00:00:00,2024-05-19 00:00:00,4189.895703,2022-04-27: Feedback about delayed delivery
+506,dealhunter1651@eshop.com,Canada,Premium,2023-05-21 00:00:00,2024-05-20 00:00:00,2289.523866,2022-12-26: Complaint about delayed delivery; 2022-11-17: Request about payment issues
+507,marketfan494@bestdeals.com,Canada,Standard,2023-05-22 00:00:00,2024-05-21 00:00:00,9455.710718,2022-04-20: Inquiry regarding order status; 2022-10-11: Request for more information on a product; 2022-11-12: Request about payment issues
+508,dealhunter3574@eshop.com,Germany,Premium,2023-05-23 00:00:00,2024-05-22 00:00:00,5710.347803,2022-09-17: Feedback about product availability
+509,dealhunter7914@bestdeals.com,Canada,Standard,2023-05-24 00:00:00,2024-05-23 00:00:00,2530.106287,2022-10-08: Request about delayed delivery; 2022-01-11: Complaint about membership benefits; 2022-05-19: Feedback about membership benefits
+510,shopper1896@eshop.com,Canada,Premium,2023-05-25 00:00:00,2024-05-24 00:00:00,6227.025373,2022-04-15: Complaint about payment issues; 2022-11-29: Inquiry for more information on a product
+511,marketfan7079@eshop.com,Canada,VIP,2023-05-26 00:00:00,2024-05-25 00:00:00,2260.98144,2022-10-11: Inquiry about product availability; 2022-04-11: Inquiry about payment issues; 2022-04-30: Complaint for more information on a product
+512,marketfan8268@buyeasy.com,Australia,Standard,2023-05-27 00:00:00,2024-05-26 00:00:00,8385.844992,2022-05-26: Feedback regarding order status
+513,buyer2213@shopworld.com,Canada,Premium,2023-05-28 00:00:00,2024-05-27 00:00:00,6838.722856,2022-07-13: Complaint about membership benefits; 2022-12-08: Feedback about delayed delivery
+514,shopper1867@shopworld.com,UK,Standard,2023-05-29 00:00:00,2024-05-28 00:00:00,6781.222041,2022-11-09: Inquiry about payment issues; 2022-10-06: Complaint about product availability
+515,buyer7386@buyeasy.com,Canada,Standard,2023-05-30 00:00:00,2024-05-29 00:00:00,4732.492124,2022-08-24: Inquiry about product availability; 2022-09-21: Complaint regarding order status
+516,shopper7049@shopworld.com,Australia,Premium,2023-05-31 00:00:00,2024-05-30 00:00:00,8880.560189,2022-11-19: Inquiry about membership benefits
+517,dealhunter3945@eshop.com,Australia,Standard,2023-06-01 00:00:00,2024-05-31 00:00:00,2793.581734,2022-10-19: Feedback regarding order status
+518,dealhunter8776@shopworld.com,Canada,Premium,2023-06-02 00:00:00,2024-06-01 00:00:00,9097.380685,2022-10-06: Inquiry about product availability; 2022-08-12: Feedback regarding order status
+519,buyer5768@eshop.com,UK,VIP,2023-06-03 00:00:00,2024-06-02 00:00:00,6645.812723,2022-03-19: Inquiry regarding order status; 2022-10-05: Feedback about payment issues; 2022-04-24: Feedback about membership benefits
+520,dealhunter6851@buyeasy.com,Germany,VIP,2023-06-04 00:00:00,2024-06-03 00:00:00,1374.730626,2022-02-23: Inquiry for more information on a product
+521,buyer5155@buyeasy.com,Germany,Standard,2023-06-05 00:00:00,2024-06-04 00:00:00,417.5772606,2022-01-01: Inquiry regarding order status; 2022-02-24: Inquiry for more information on a product
+522,dealhunter639@buyeasy.com,Canada,Premium,2023-06-06 00:00:00,2024-06-05 00:00:00,7132.856937,2022-10-16: Complaint about payment issues; 2022-03-18: Inquiry for more information on a product
+523,buyer1431@eshop.com,Germany,VIP,2023-06-07 00:00:00,2024-06-06 00:00:00,3203.232274,2022-12-02: Request for more information on a product
+524,buyer463@eshop.com,Germany,Premium,2023-06-08 00:00:00,2024-06-07 00:00:00,1167.567034,2022-03-07: Request about payment issues; 2022-04-07: Feedback about product availability
+525,dealhunter5664@shopworld.com,Australia,Standard,2023-06-09 00:00:00,2024-06-08 00:00:00,5505.677729,2022-08-17: Complaint for more information on a product; 2022-11-11: Inquiry regarding order status
+526,buyer9799@bestdeals.com,Australia,Standard,2023-06-10 00:00:00,2024-06-09 00:00:00,8007.894679,2022-05-23: Complaint about membership benefits
+527,shopper3721@shopworld.com,UK,Premium,2023-06-11 00:00:00,2024-06-10 00:00:00,7928.870767,2022-10-21: Feedback about membership benefits
+528,shopper2706@eshop.com,USA,VIP,2023-06-12 00:00:00,2024-06-11 00:00:00,6928.815289,2022-11-01: Complaint regarding order status
+529,shopper6514@eshop.com,Canada,VIP,2023-06-13 00:00:00,2024-06-12 00:00:00,944.3222469,2022-05-16: Request for more information on a product
+530,dealhunter3517@bestdeals.com,Germany,Premium,2023-06-14 00:00:00,2024-06-13 00:00:00,3678.050249,2022-09-08: Inquiry about payment issues; 2022-06-20: Complaint for more information on a product; 2022-06-28: Complaint about membership benefits
+531,dealhunter7194@eshop.com,Germany,Premium,2023-06-15 00:00:00,2024-06-14 00:00:00,3275.168658,2022-12-13: Complaint regarding order status; 2022-03-12: Feedback about payment issues
+532,dealhunter8448@buyeasy.com,USA,VIP,2023-06-16 00:00:00,2024-06-15 00:00:00,5883.746699,2022-12-10: Request regarding order status; 2022-01-11: Feedback about membership benefits
+533,marketfan9800@shopworld.com,USA,Standard,2023-06-17 00:00:00,2024-06-16 00:00:00,9640.183111,2022-03-28: Request regarding order status
+534,shopper7475@eshop.com,USA,VIP,2023-06-18 00:00:00,2024-06-17 00:00:00,6689.722643,2022-03-12: Feedback about product availability; 2022-12-29: Feedback about delayed delivery; 2022-04-02: Feedback about product availability
+535,marketfan1732@eshop.com,USA,VIP,2023-06-19 00:00:00,2024-06-18 00:00:00,7865.290613,2022-09-01: Complaint about membership benefits; 2022-01-24: Inquiry about membership benefits
+536,marketfan1065@eshop.com,USA,Premium,2023-06-20 00:00:00,2024-06-19 00:00:00,3933.774932,2022-10-08: Inquiry about payment issues; 2022-09-11: Feedback about product availability
+537,shopper4649@buyeasy.com,UK,Premium,2023-06-21 00:00:00,2024-06-20 00:00:00,4680.494314,2022-04-27: Inquiry about delayed delivery; 2022-05-06: Feedback about product availability; 2022-07-25: Feedback for more information on a product
+538,shopper7064@shopworld.com,UK,VIP,2023-06-22 00:00:00,2024-06-21 00:00:00,5361.333733,2022-12-26: Inquiry about delayed delivery
+539,buyer9791@eshop.com,UK,VIP,2023-06-23 00:00:00,2024-06-22 00:00:00,2702.127722,2022-09-02: Feedback about membership benefits; 2022-10-22: Inquiry about delayed delivery
+540,dealhunter9918@bestdeals.com,USA,VIP,2023-06-24 00:00:00,2024-06-23 00:00:00,1644.436241,2022-12-15: Inquiry regarding order status
+541,dealhunter9352@eshop.com,UK,Premium,2023-06-25 00:00:00,2024-06-24 00:00:00,3754.64337,2022-06-24: Complaint for more information on a product; 2022-07-30: Request for more information on a product; 2022-04-04: Inquiry about payment issues
+542,dealhunter121@buyeasy.com,Germany,VIP,2023-06-26 00:00:00,2024-06-25 00:00:00,8680.687199,2022-03-17: Complaint about membership benefits
+543,marketfan7661@bestdeals.com,Australia,VIP,2023-06-27 00:00:00,2024-06-26 00:00:00,7579.282657,2022-02-20: Request about payment issues; 2022-12-12: Feedback regarding order status
+544,buyer466@eshop.com,USA,VIP,2023-06-28 00:00:00,2024-06-27 00:00:00,7726.486132,2022-02-21: Request about membership benefits; 2022-05-18: Request about membership benefits; 2022-06-14: Complaint about payment issues
+545,shopper6596@bestdeals.com,Australia,Standard,2023-06-29 00:00:00,2024-06-28 00:00:00,7440.065507,2022-07-04: Inquiry about delayed delivery; 2022-01-26: Inquiry regarding order status
+546,buyer1106@buyeasy.com,UK,VIP,2023-06-30 00:00:00,2024-06-29 00:00:00,1886.42351,2022-07-05: Feedback about payment issues; 2022-12-29: Request regarding order status
+547,shopper3940@eshop.com,UK,VIP,2023-07-01 00:00:00,2024-06-30 00:00:00,7123.307238,2022-08-31: Complaint about product availability
+548,shopper6171@bestdeals.com,UK,Standard,2023-07-02 00:00:00,2024-07-01 00:00:00,8015.907243,2022-07-12: Complaint about membership benefits
+549,shopper7349@shopworld.com,Canada,Standard,2023-07-03 00:00:00,2024-07-02 00:00:00,6883.281401,2022-10-05: Feedback about membership benefits; 2022-09-15: Feedback about payment issues
+550,marketfan9354@bestdeals.com,UK,Premium,2023-07-04 00:00:00,2024-07-03 00:00:00,452.5124618,2022-02-26: Inquiry about delayed delivery; 2022-06-06: Request for more information on a product
+551,marketfan1562@eshop.com,Canada,VIP,2023-07-05 00:00:00,2024-07-04 00:00:00,5952.391594,2022-07-21: Feedback for more information on a product; 2022-05-17: Inquiry regarding order status; 2022-08-11: Feedback about delayed delivery
+552,dealhunter2620@eshop.com,Australia,Premium,2023-07-06 00:00:00,2024-07-05 00:00:00,5642.293035,2022-06-01: Feedback regarding order status; 2022-10-06: Inquiry about product availability
+553,dealhunter2090@shopworld.com,Canada,Premium,2023-07-07 00:00:00,2024-07-06 00:00:00,496.4103134,2022-09-10: Feedback about product availability; 2022-03-18: Complaint regarding order status
+554,dealhunter8652@bestdeals.com,UK,Premium,2023-07-08 00:00:00,2024-07-07 00:00:00,5909.411127,2022-10-02: Feedback regarding order status
+555,shopper2245@shopworld.com,Australia,VIP,2023-07-09 00:00:00,2024-07-08 00:00:00,3288.19931,2022-09-24: Request about delayed delivery; 2022-10-12: Request regarding order status
+556,shopper143@shopworld.com,Australia,Standard,2023-07-10 00:00:00,2024-07-09 00:00:00,919.3906127,2022-12-09: Feedback about payment issues
+557,dealhunter8683@buyeasy.com,Germany,Premium,2023-07-11 00:00:00,2024-07-10 00:00:00,9664.572929,2022-06-19: Complaint regarding order status; 2023-01-01: Complaint about product availability; 2022-02-13: Request about payment issues
+558,dealhunter8717@eshop.com,UK,Standard,2023-07-12 00:00:00,2024-07-11 00:00:00,6669.112669,2022-02-25: Complaint regarding order status; 2022-10-30: Complaint about payment issues
+559,marketfan3490@bestdeals.com,UK,Standard,2023-07-13 00:00:00,2024-07-12 00:00:00,8630.531662,2022-06-24: Feedback regarding order status
+560,dealhunter3805@buyeasy.com,Australia,VIP,2023-07-14 00:00:00,2024-07-13 00:00:00,2645.394414,2022-08-07: Inquiry about membership benefits; 2022-12-15: Complaint regarding order status
+561,shopper5126@bestdeals.com,USA,Premium,2023-07-15 00:00:00,2024-07-14 00:00:00,6545.894902,2022-05-19: Inquiry regarding order status
+562,marketfan7410@buyeasy.com,USA,VIP,2023-07-16 00:00:00,2024-07-15 00:00:00,4203.256934,2022-06-07: Complaint about delayed delivery; 2022-01-10: Request about membership benefits
+563,marketfan8621@buyeasy.com,Australia,Premium,2023-07-17 00:00:00,2024-07-16 00:00:00,7656.088586,2022-04-10: Complaint for more information on a product; 2022-10-19: Request about product availability
+564,marketfan684@buyeasy.com,Canada,VIP,2023-07-18 00:00:00,2024-07-17 00:00:00,5750.387793,2022-06-28: Request about delayed delivery; 2022-07-21: Inquiry about delayed delivery; 2022-06-09: Inquiry about membership benefits
+565,marketfan8811@eshop.com,Australia,VIP,2023-07-19 00:00:00,2024-07-18 00:00:00,5841.716924,2022-11-19: Request about membership benefits; 2022-01-18: Complaint about membership benefits; 2022-09-23: Complaint for more information on a product
+566,buyer5874@eshop.com,Australia,Premium,2023-07-20 00:00:00,2024-07-19 00:00:00,7423.870462,2022-11-11: Inquiry about membership benefits
+567,buyer5564@buyeasy.com,Canada,Premium,2023-07-21 00:00:00,2024-07-20 00:00:00,1864.331355,2022-07-31: Feedback about payment issues; 2022-10-01: Feedback about payment issues
+568,marketfan1353@bestdeals.com,Germany,Premium,2023-07-22 00:00:00,2024-07-21 00:00:00,1348.462531,2022-08-21: Request for more information on a product
+569,shopper1076@eshop.com,Canada,Standard,2023-07-23 00:00:00,2024-07-22 00:00:00,5168.387595,2022-06-16: Request regarding order status
+570,dealhunter5570@bestdeals.com,USA,Premium,2023-07-24 00:00:00,2024-07-23 00:00:00,9822.910094,2022-02-04: Complaint about product availability
+571,dealhunter9123@bestdeals.com,Canada,Premium,2023-07-25 00:00:00,2024-07-24 00:00:00,7076.477852,2022-01-04: Request regarding order status; 2022-04-18: Complaint about membership benefits; 2022-07-03: Inquiry about payment issues
+572,marketfan4307@shopworld.com,Australia,Standard,2023-07-26 00:00:00,2024-07-25 00:00:00,5639.834998,2022-04-12: Request about product availability; 2022-06-19: Complaint about payment issues
+573,shopper2738@eshop.com,USA,Standard,2023-07-27 00:00:00,2024-07-26 00:00:00,9959.928271,2022-10-21: Feedback about delayed delivery
+574,shopper4042@shopworld.com,Germany,Premium,2023-07-28 00:00:00,2024-07-27 00:00:00,4430.774196,2022-03-06: Feedback about product availability; 2022-06-22: Feedback about delayed delivery; 2022-10-25: Request for more information on a product
+575,shopper8432@bestdeals.com,Canada,Premium,2023-07-29 00:00:00,2024-07-28 00:00:00,4742.732944,2022-10-04: Feedback for more information on a product; 2022-07-10: Complaint about membership benefits; 2022-06-28: Feedback regarding order status
+576,shopper615@shopworld.com,UK,VIP,2023-07-30 00:00:00,2024-07-29 00:00:00,7125.262558,2022-10-09: Inquiry about product availability; 2022-05-16: Complaint for more information on a product
+577,shopper5509@eshop.com,Germany,VIP,2023-07-31 00:00:00,2024-07-30 00:00:00,3495.403912,2022-11-22: Feedback about delayed delivery
+578,shopper5446@shopworld.com,Germany,Premium,2023-08-01 00:00:00,2024-07-31 00:00:00,8599.777451,2022-04-14: Feedback about membership benefits; 2022-11-20: Request regarding order status
+579,dealhunter6272@bestdeals.com,Germany,VIP,2023-08-02 00:00:00,2024-08-01 00:00:00,8691.754635,2022-12-07: Feedback for more information on a product; 2022-12-04: Inquiry about product availability; 2022-12-31: Request about delayed delivery
+580,shopper5533@shopworld.com,Germany,Premium,2023-08-03 00:00:00,2024-08-02 00:00:00,2597.714404,2022-12-16: Feedback for more information on a product; 2022-02-01: Inquiry about delayed delivery
+581,dealhunter7867@eshop.com,Germany,VIP,2023-08-04 00:00:00,2024-08-03 00:00:00,2145.459852,2022-02-12: Request about delayed delivery; 2022-01-18: Complaint about delayed delivery; 2022-07-19: Complaint for more information on a product
+582,marketfan2302@buyeasy.com,UK,Standard,2023-08-05 00:00:00,2024-08-04 00:00:00,2740.596748,2022-10-04: Complaint for more information on a product; 2022-09-22: Inquiry about payment issues
+583,dealhunter8165@buyeasy.com,Germany,Standard,2023-08-06 00:00:00,2024-08-05 00:00:00,7937.795794,2022-01-10: Complaint regarding order status
+584,marketfan5584@bestdeals.com,Canada,VIP,2023-08-07 00:00:00,2024-08-06 00:00:00,4951.379826,2022-07-03: Complaint about payment issues
+585,marketfan8651@eshop.com,Australia,VIP,2023-08-08 00:00:00,2024-08-07 00:00:00,1100.64373,2022-10-17: Request for more information on a product; 2022-07-28: Request for more information on a product; 2022-11-05: Complaint about delayed delivery
+586,shopper4097@eshop.com,Australia,VIP,2023-08-09 00:00:00,2024-08-08 00:00:00,4506.79892,2022-02-21: Complaint about payment issues; 2022-08-10: Request about delayed delivery
+587,dealhunter4333@shopworld.com,Canada,VIP,2023-08-10 00:00:00,2024-08-09 00:00:00,5245.468126,2022-08-11: Inquiry for more information on a product
+588,marketfan4287@bestdeals.com,Germany,Standard,2023-08-11 00:00:00,2024-08-10 00:00:00,9520.167124,2022-02-02: Feedback about product availability; 2022-08-22: Request about delayed delivery
+589,dealhunter7026@bestdeals.com,Canada,VIP,2023-08-12 00:00:00,2024-08-11 00:00:00,6412.961612,2022-02-17: Inquiry for more information on a product; 2022-08-14: Feedback about payment issues
+590,buyer7680@buyeasy.com,USA,Premium,2023-08-13 00:00:00,2024-08-12 00:00:00,7244.573917,2022-12-05: Complaint for more information on a product
+591,buyer2365@bestdeals.com,UK,Premium,2023-08-14 00:00:00,2024-08-13 00:00:00,1051.051794,2022-04-20: Request about delayed delivery
+592,invalid_email,Australia,Standard,2023-08-15 00:00:00,2024-08-14 00:00:00,1708.376155,2022-09-06: Feedback about payment issues; 2022-04-22: Inquiry for more information on a product; 2022-06-01: Complaint about payment issues
+593,shopper1299@bestdeals.com,UK,Standard,2023-08-16 00:00:00,2024-08-15 00:00:00,8985.753381,2022-05-31: Feedback about delayed delivery
+594,dealhunter3802@buyeasy.com,Canada,Standard,2023-08-17 00:00:00,2024-08-16 00:00:00,9628.98994,2022-04-07: Inquiry for more information on a product
+595,dealhunter1912@buyeasy.com,Australia,Premium,2023-08-18 00:00:00,2024-08-17 00:00:00,3174.619799,2022-08-11: Feedback about product availability; 2022-08-03: Complaint regarding order status
+596,marketfan5301@eshop.com,Germany,Premium,2023-08-19 00:00:00,2024-08-18 00:00:00,511.9326295,2022-10-03: Request regarding order status; 2022-12-29: Complaint about payment issues
+597,buyer5255@eshop.com,USA,Standard,2023-08-20 00:00:00,2024-08-19 00:00:00,100.0441523,2022-01-27: Complaint about payment issues
+598,invalid_email,Germany,Premium,2023-08-21 00:00:00,2024-08-20 00:00:00,1677.761735,2022-10-19: Complaint regarding order status; 2022-10-12: Complaint for more information on a product
+599,buyer9028@shopworld.com,UK,VIP,2023-08-22 00:00:00,2024-08-21 00:00:00,6670.476314,2022-11-14: Inquiry about membership benefits
+600,dealhunter418@eshop.com,Canada,Standard,2023-08-23 00:00:00,2024-08-22 00:00:00,6579.448706,2022-05-11: Complaint regarding order status; 2022-12-10: Feedback regarding order status; 2022-12-17: Request regarding order status
+601,buyer5644@buyeasy.com,Australia,Premium,2023-08-24 00:00:00,2024-08-23 00:00:00,9031.32606,2022-03-09: Feedback about membership benefits; 2022-04-14: Feedback regarding order status
+602,marketfan2152@buyeasy.com,Germany,VIP,2023-08-25 00:00:00,2024-08-24 00:00:00,3005.503773,2022-03-02: Request for more information on a product
+603,dealhunter2758@bestdeals.com,Canada,Premium,2023-08-26 00:00:00,2024-08-25 00:00:00,1229.817738,2022-09-14: Request about delayed delivery; 2022-12-04: Inquiry regarding order status; 2022-01-14: Inquiry for more information on a product
+604,marketfan386@eshop.com,USA,Premium,2023-08-27 00:00:00,2024-08-26 00:00:00,4570.736978,2022-09-22: Request about delayed delivery
+605,buyer2312@eshop.com,Australia,Premium,2023-08-28 00:00:00,2024-08-27 00:00:00,7548.340648,2022-07-09: Feedback about membership benefits; 2022-07-27: Complaint regarding order status
+606,buyer9136@eshop.com,Germany,VIP,2023-08-29 00:00:00,2024-08-28 00:00:00,9236.120836,2022-11-17: Complaint for more information on a product; 2022-05-04: Feedback about delayed delivery; 2022-04-16: Feedback about payment issues
+607,dealhunter2463@shopworld.com,Germany,Premium,2023-08-30 00:00:00,2024-08-29 00:00:00,4957.864809,2022-06-19: Feedback about delayed delivery; 2022-12-06: Feedback regarding order status; 2022-07-01: Inquiry about membership benefits
+608,buyer4483@bestdeals.com,UK,Standard,2023-08-31 00:00:00,2024-08-30 00:00:00,3905.502725,2022-01-06: Feedback regarding order status; 2022-02-18: Inquiry regarding order status; 2022-08-16: Complaint about product availability
+609,dealhunter7913@buyeasy.com,USA,VIP,2023-09-01 00:00:00,2024-08-31 00:00:00,3865.237282,2022-06-16: Feedback about membership benefits; 2022-09-11: Request about payment issues; 2022-09-06: Complaint about payment issues
+610,marketfan1890@buyeasy.com,Australia,Premium,2023-09-02 00:00:00,2024-09-01 00:00:00,3018.686806,2022-08-09: Request regarding order status; 2022-01-26: Inquiry about membership benefits
+611,shopper7154@eshop.com,Germany,Standard,2023-09-03 00:00:00,2024-09-02 00:00:00,6383.263186,2022-02-11: Inquiry for more information on a product; 2022-09-16: Request about payment issues
+612,shopper4694@buyeasy.com,Australia,Standard,2023-09-04 00:00:00,2024-09-03 00:00:00,8167.401748,2022-02-10: Request regarding order status; 2022-06-15: Request for more information on a product; 2022-09-15: Complaint about delayed delivery
+613,marketfan4710@shopworld.com,Germany,Premium,2023-09-05 00:00:00,2024-09-04 00:00:00,7533.038448,2022-02-26: Complaint about payment issues; 2022-12-10: Complaint about membership benefits; 2022-10-01: Feedback for more information on a product
+614,marketfan8475@buyeasy.com,UK,Standard,2023-09-06 00:00:00,2024-09-05 00:00:00,237.7609944,2022-05-14: Request about delayed delivery; 2022-11-19: Feedback for more information on a product
+615,buyer3692@shopworld.com,Germany,Standard,2023-09-07 00:00:00,2024-09-06 00:00:00,2102.822723,2022-03-14: Inquiry about product availability; 2022-06-21: Feedback for more information on a product; 2022-05-27: Feedback about delayed delivery
+616,marketfan6115@bestdeals.com,UK,VIP,2023-09-08 00:00:00,2024-09-07 00:00:00,9833.581142,2022-03-15: Inquiry regarding order status
+617,dealhunter453@eshop.com,UK,Premium,2023-09-09 00:00:00,2024-09-08 00:00:00,2524.074014,2022-11-22: Feedback for more information on a product; 2022-08-24: Complaint about delayed delivery
+618,dealhunter9411@bestdeals.com,USA,VIP,2023-09-10 00:00:00,2024-09-09 00:00:00,619.6081662,2022-01-20: Complaint about delayed delivery; 2022-07-21: Feedback about membership benefits; 2022-08-03: Feedback about payment issues
+619,dealhunter3715@eshop.com,Australia,VIP,2023-09-11 00:00:00,2024-09-10 00:00:00,6688.158365,2022-10-17: Feedback about membership benefits; 2022-08-11: Feedback about payment issues; 2022-01-12: Complaint about membership benefits
+620,dealhunter2789@eshop.com,USA,Standard,2023-09-12 00:00:00,2024-09-11 00:00:00,4073.497969,2022-10-14: Request about membership benefits; 2022-11-01: Inquiry regarding order status; 2022-11-09: Request about delayed delivery
+621,marketfan4768@eshop.com,Canada,VIP,2023-09-13 00:00:00,2024-09-12 00:00:00,9006.051521,2022-12-09: Feedback about product availability; 2022-11-16: Request about product availability; 2022-06-06: Complaint about payment issues
+622,buyer1108@bestdeals.com,USA,Standard,2023-09-14 00:00:00,2024-09-13 00:00:00,2577.421999,2022-07-07: Inquiry about membership benefits; 2022-03-21: Request about delayed delivery; 2022-07-16: Complaint regarding order status
+623,buyer1140@eshop.com,USA,Premium,2023-09-15 00:00:00,2024-09-14 00:00:00,8705.245904,2022-04-10: Feedback for more information on a product; 2022-09-26: Complaint for more information on a product
+624,marketfan9529@buyeasy.com,Germany,Standard,2023-09-16 00:00:00,2024-09-15 00:00:00,1762.545355,2022-08-22: Inquiry regarding order status; 2022-06-03: Request for more information on a product; 2022-06-26: Inquiry for more information on a product
+625,dealhunter2496@shopworld.com,USA,VIP,2023-09-17 00:00:00,2024-09-16 00:00:00,7239.348779,2022-03-04: Inquiry about product availability; 2022-01-03: Feedback for more information on a product
+626,marketfan820@bestdeals.com,Canada,VIP,2023-09-18 00:00:00,2024-09-17 00:00:00,8440.928443,2022-01-27: Feedback about product availability; 2022-04-28: Request about delayed delivery; 2022-01-27: Complaint about membership benefits
+627,shopper2194@eshop.com,Germany,VIP,2023-09-19 00:00:00,2024-09-18 00:00:00,2683.933057,2022-12-17: Complaint for more information on a product
+628,shopper1688@shopworld.com,Germany,VIP,2023-09-20 00:00:00,2024-09-19 00:00:00,7836.281742,2022-05-22: Feedback about delayed delivery; 2022-10-06: Feedback for more information on a product; 2022-09-27: Complaint about membership benefits
+629,dealhunter5953@shopworld.com,Germany,VIP,2023-09-21 00:00:00,2024-09-20 00:00:00,1909.69017,2022-04-06: Inquiry about payment issues; 2022-09-06: Request about delayed delivery
+630,dealhunter8055@bestdeals.com,USA,Standard,2023-09-22 00:00:00,2024-09-21 00:00:00,5879.453768,2022-03-20: Complaint about payment issues; 2022-10-01: Complaint about membership benefits; 2022-09-11: Complaint about membership benefits
+631,shopper5615@buyeasy.com,Canada,Premium,2023-09-23 00:00:00,2024-09-22 00:00:00,9951.902174,2022-08-25: Feedback about payment issues; 2022-04-13: Feedback about membership benefits; 2022-12-06: Complaint about delayed delivery
+632,shopper5542@eshop.com,USA,Standard,2023-09-24 00:00:00,2024-09-23 00:00:00,749.7309757,2022-05-11: Complaint for more information on a product
+633,buyer7193@bestdeals.com,Australia,Premium,2023-09-25 00:00:00,2024-09-24 00:00:00,170.5932947,2022-07-30: Complaint for more information on a product
+634,dealhunter256@shopworld.com,USA,Premium,2023-09-26 00:00:00,2024-09-25 00:00:00,2884.060482,2022-11-20: Request about product availability; 2022-04-06: Request about product availability; 2022-07-23: Request about delayed delivery
+635,shopper6095@bestdeals.com,Australia,VIP,2023-09-27 00:00:00,2024-09-26 00:00:00,7341.592244,2022-07-04: Complaint about membership benefits; 2022-03-13: Feedback about payment issues
+636,buyer6535@bestdeals.com,USA,Premium,2023-09-28 00:00:00,2024-09-27 00:00:00,2963.132853,2022-08-03: Inquiry about payment issues; 2022-10-30: Inquiry regarding order status; 2022-10-13: Inquiry regarding order status
+637,buyer335@bestdeals.com,Germany,Premium,2023-09-29 00:00:00,2024-09-28 00:00:00,4017.941839,2022-08-22: Request regarding order status; 2022-01-04: Complaint about payment issues
+638,dealhunter4743@eshop.com,USA,Standard,2023-09-30 00:00:00,2024-09-29 00:00:00,4913.965935,2022-09-30: Feedback about membership benefits; 2022-01-05: Feedback regarding order status; 2022-10-24: Complaint about product availability
+639,marketfan217@bestdeals.com,Australia,VIP,2023-10-01 00:00:00,2024-09-30 00:00:00,2254.085944,2022-10-24: Request regarding order status; 2022-12-19: Inquiry about delayed delivery; 2022-07-10: Inquiry about membership benefits
+640,dealhunter1743@bestdeals.com,USA,Standard,2023-10-02 00:00:00,2024-10-01 00:00:00,2143.607658,2022-11-14: Inquiry about delayed delivery
+641,shopper4677@buyeasy.com,USA,Premium,2023-10-03 00:00:00,2024-10-02 00:00:00,8206.40211,2022-12-06: Request about membership benefits; 2022-01-17: Feedback about delayed delivery; 2022-01-13: Feedback about product availability
+642,shopper3639@eshop.com,Australia,Premium,2023-10-04 00:00:00,2024-10-03 00:00:00,9901.691276,2022-10-29: Request about membership benefits; 2022-08-04: Inquiry about payment issues; 2022-10-15: Request about product availability
+643,shopper570@shopworld.com,Canada,Premium,2023-10-05 00:00:00,2024-10-04 00:00:00,4253.427296,2022-02-02: Request about payment issues; 2022-06-13: Complaint about membership benefits
+644,dealhunter7670@bestdeals.com,UK,Premium,2023-10-06 00:00:00,2024-10-05 00:00:00,8851.574823,2022-01-25: Inquiry about membership benefits; 2022-08-03: Request for more information on a product
+645,invalid_email,Australia,Standard,2023-10-07 00:00:00,2024-10-06 00:00:00,6040.625899,2022-09-19: Complaint about delayed delivery; 2022-11-06: Request for more information on a product; 2022-04-02: Feedback about delayed delivery
+646,marketfan9243@shopworld.com,UK,VIP,2023-10-08 00:00:00,2024-10-07 00:00:00,9996.865035,2022-09-13: Feedback about membership benefits
+647,marketfan7681@bestdeals.com,Germany,Standard,2023-10-09 00:00:00,2024-10-08 00:00:00,9627.272877,2022-06-28: Complaint about delayed delivery; 2022-02-14: Request regarding order status; 2022-04-01: Feedback about product availability
+648,marketfan7725@buyeasy.com,USA,Premium,2023-10-10 00:00:00,2024-10-09 00:00:00,3644.903054,2022-12-07: Inquiry for more information on a product; 2022-12-28: Request regarding order status
+649,buyer5715@buyeasy.com,Germany,Premium,2023-10-11 00:00:00,2024-10-10 00:00:00,2307.721691,2022-03-22: Request about product availability; 2022-02-27: Request about payment issues
+650,shopper6450@eshop.com,Canada,Standard,2023-10-12 00:00:00,2024-10-11 00:00:00,1336.363846,2022-04-17: Complaint for more information on a product; 2022-03-15: Request regarding order status; 2022-09-28: Inquiry regarding order status
+651,marketfan6799@buyeasy.com,Australia,Standard,2023-10-13 00:00:00,2024-10-12 00:00:00,3823.224737,2022-02-01: Complaint about payment issues; 2022-09-27: Complaint about payment issues; 2022-10-07: Feedback about membership benefits
+652,marketfan7721@bestdeals.com,Canada,VIP,2023-10-14 00:00:00,2024-10-13 00:00:00,8193.025529,2022-04-20: Complaint for more information on a product; 2022-06-02: Complaint about delayed delivery
+653,dealhunter2661@eshop.com,Canada,VIP,2023-10-15 00:00:00,2024-10-14 00:00:00,1293.376947,2022-06-18: Feedback for more information on a product; 2022-12-31: Request regarding order status; 2022-12-04: Feedback about membership benefits
+654,shopper4170@bestdeals.com,Australia,VIP,2023-10-16 00:00:00,2024-10-15 00:00:00,6651.50801,2022-03-16: Feedback for more information on a product; 2022-03-01: Feedback regarding order status
+655,shopper5766@shopworld.com,Australia,Premium,2023-10-17 00:00:00,2024-10-16 00:00:00,6217.751704,2022-06-23: Inquiry regarding order status
+656,shopper9168@eshop.com,Germany,VIP,2023-10-18 00:00:00,2024-10-17 00:00:00,8978.521253,2022-04-24: Inquiry regarding order status
+657,shopper3008@buyeasy.com,Canada,VIP,2023-10-19 00:00:00,2024-10-18 00:00:00,6060.220212,2022-02-18: Feedback about membership benefits; 2022-05-15: Complaint regarding order status
+658,dealhunter8727@eshop.com,Australia,Premium,2023-10-20 00:00:00,2024-10-19 00:00:00,-999,2022-07-23: Request regarding order status
+659,buyer3570@bestdeals.com,Canada,VIP,2023-10-21 00:00:00,2024-10-20 00:00:00,3665.927988,2022-02-05: Complaint regarding order status; 2022-11-19: Complaint about membership benefits
+660,shopper6633@eshop.com,UK,VIP,2023-10-22 00:00:00,2024-10-21 00:00:00,467.2623229,2022-08-08: Request about product availability; 2022-11-16: Inquiry about payment issues; 2022-03-17: Request about payment issues
+661,shopper1094@eshop.com,USA,VIP,2023-10-23 00:00:00,2024-10-22 00:00:00,2960.445095,2022-06-01: Inquiry for more information on a product; 2022-10-29: Request about product availability; 2022-10-08: Inquiry for more information on a product
+662,dealhunter4168@eshop.com,Australia,Standard,2023-10-24 00:00:00,2024-10-23 00:00:00,4033.995859,2022-03-03: Feedback about payment issues
+663,marketfan1743@bestdeals.com,Australia,Standard,2023-10-25 00:00:00,2024-10-24 00:00:00,1992.526525,2022-11-05: Feedback about membership benefits; 2022-02-03: Feedback for more information on a product
+664,shopper2204@bestdeals.com,UK,Premium,2023-10-26 00:00:00,2024-10-25 00:00:00,8302.896233,2022-06-19: Inquiry about payment issues; 2022-12-14: Inquiry regarding order status; 2022-09-17: Feedback about payment issues
+665,buyer6157@shopworld.com,Germany,VIP,2023-10-27 00:00:00,2024-10-26 00:00:00,4059.014987,2022-03-06: Inquiry about payment issues; 2022-01-16: Request for more information on a product; 2022-03-29: Inquiry regarding order status
+666,marketfan9157@shopworld.com,USA,Premium,2023-10-28 00:00:00,2024-10-27 00:00:00,8428.899059,2022-03-13: Inquiry regarding order status; 2022-10-03: Inquiry for more information on a product
+667,marketfan2048@shopworld.com,Australia,Standard,2023-10-29 00:00:00,2024-10-28 00:00:00,1106.451055,2022-10-11: Request for more information on a product; 2022-06-04: Request about product availability; 2022-12-16: Request regarding order status
+668,marketfan2326@eshop.com,Canada,Standard,2023-10-30 00:00:00,2024-10-29 00:00:00,6624.841686,2022-11-21: Feedback for more information on a product
+669,dealhunter6365@shopworld.com,Germany,Standard,2023-10-31 00:00:00,2024-10-30 00:00:00,6398.24507,2022-05-22: Feedback about membership benefits
+670,marketfan1777@eshop.com,Germany,Standard,2023-11-01 00:00:00,2024-10-31 00:00:00,1592.061439,2022-12-05: Request for more information on a product
+671,dealhunter1070@bestdeals.com,USA,VIP,2023-11-02 00:00:00,2024-11-01 00:00:00,6921.937774,2022-02-08: Complaint about delayed delivery; 2022-03-06: Complaint regarding order status; 2022-04-09: Feedback for more information on a product
+672,dealhunter5352@bestdeals.com,Germany,Standard,2023-11-03 00:00:00,2024-11-02 00:00:00,4433.609307,2022-11-03: Feedback about delayed delivery
+673,marketfan4702@buyeasy.com,Canada,VIP,2023-11-04 00:00:00,2024-11-03 00:00:00,4102.599009,2022-05-02: Complaint about delayed delivery; 2022-04-09: Feedback about product availability
+674,shopper3548@buyeasy.com,USA,VIP,2023-11-05 00:00:00,2024-11-04 00:00:00,8293.821262,2022-12-16: Inquiry about membership benefits
+675,buyer2112@buyeasy.com,Australia,VIP,2023-11-06 00:00:00,2024-11-05 00:00:00,5917.636631,2022-09-24: Complaint regarding order status
+676,marketfan253@shopworld.com,Germany,Premium,2023-11-07 00:00:00,2024-11-06 00:00:00,3322.31738,2022-12-27: Inquiry about product availability; 2022-12-05: Request regarding order status; 2022-11-18: Request about membership benefits
+677,buyer3986@shopworld.com,Australia,Standard,2023-11-08 00:00:00,2024-11-07 00:00:00,2398.954018,2022-12-29: Feedback regarding order status; 2022-12-30: Inquiry about delayed delivery
+678,buyer9979@shopworld.com,Canada,Standard,2023-11-09 00:00:00,2024-11-08 00:00:00,694.8590101,2022-10-31: Inquiry regarding order status
+679,shopper9961@shopworld.com,UK,Standard,2023-11-10 00:00:00,2024-11-09 00:00:00,7908.040561,2022-07-30: Inquiry about product availability; 2022-07-30: Complaint about membership benefits; 2022-06-29: Feedback about delayed delivery
+680,marketfan7325@shopworld.com,UK,Premium,2023-11-11 00:00:00,2024-11-10 00:00:00,9445.328961,2022-11-28: Feedback about payment issues
+681,shopper3099@eshop.com,UK,Premium,2023-11-12 00:00:00,2024-11-11 00:00:00,522.3033564,2022-08-31: Inquiry about payment issues; 2022-05-23: Complaint about delayed delivery; 2022-07-31: Request about delayed delivery
+682,marketfan4251@buyeasy.com,Canada,VIP,2023-11-13 00:00:00,2024-11-12 00:00:00,3133.159215,2022-08-31: Complaint about product availability
+683,buyer7629@buyeasy.com,Germany,Premium,2023-11-14 00:00:00,2024-11-13 00:00:00,1424.260167,2022-08-27: Request about membership benefits; 2022-03-24: Complaint about product availability; 2022-04-21: Request regarding order status
+684,dealhunter3436@buyeasy.com,Australia,Standard,2023-11-15 00:00:00,2024-11-14 00:00:00,5165.860765,2022-01-29: Inquiry for more information on a product; 2022-12-26: Feedback about product availability
+685,shopper9111@eshop.com,UK,VIP,2023-11-16 00:00:00,2024-11-15 00:00:00,2301.613931,2022-03-16: Request about delayed delivery; 2022-09-02: Complaint regarding order status; 2022-10-11: Complaint about product availability
+686,shopper3838@eshop.com,UK,Premium,2023-11-17 00:00:00,2024-11-16 00:00:00,2742.268441,2022-09-03: Complaint about payment issues; 2022-09-27: Request for more information on a product
+687,shopper1347@eshop.com,USA,Standard,2023-11-18 00:00:00,2024-11-17 00:00:00,1185.417152,2022-09-10: Request about membership benefits
+688,dealhunter6071@shopworld.com,Australia,VIP,2023-11-19 00:00:00,2024-11-18 00:00:00,5275.766546,2022-06-09: Inquiry regarding order status; 2022-11-13: Complaint about membership benefits; 2022-10-02: Request about product availability
+689,marketfan7618@bestdeals.com,Germany,VIP,2023-11-20 00:00:00,2024-11-19 00:00:00,4942.776444,2022-03-23: Feedback about payment issues
+690,shopper5161@buyeasy.com,Germany,VIP,2023-11-21 00:00:00,2024-11-20 00:00:00,5998.978064,2022-06-08: Complaint for more information on a product; 2022-09-08: Request about payment issues; 2022-04-23: Feedback about membership benefits
+691,shopper1970@eshop.com,Germany,Standard,2023-11-22 00:00:00,2024-11-21 00:00:00,5312.92365,2022-05-04: Feedback regarding order status; 2022-05-22: Inquiry about product availability; 2022-10-19: Complaint about delayed delivery
+692,shopper1462@eshop.com,Canada,Premium,2023-11-23 00:00:00,2024-11-22 00:00:00,9880.87863,2022-04-25: Inquiry regarding order status; 2022-01-26: Inquiry about product availability
+693,marketfan8984@buyeasy.com,USA,Standard,2023-11-24 00:00:00,2024-11-23 00:00:00,7508.744183,2022-03-27: Feedback about payment issues; 2022-07-22: Feedback about delayed delivery; 2022-02-11: Feedback regarding order status
+694,dealhunter7337@eshop.com,USA,VIP,2023-11-25 00:00:00,2024-11-24 00:00:00,527.7635152,2022-02-18: Inquiry about product availability; 2022-03-21: Request about payment issues
+695,marketfan9041@buyeasy.com,Australia,Premium,2023-11-26 00:00:00,2024-11-25 00:00:00,4031.660658,2022-10-21: Complaint about product availability
+696,dealhunter8298@buyeasy.com,Australia,Standard,2023-11-27 00:00:00,2024-11-26 00:00:00,6308.182764,2022-12-01: Complaint about payment issues
+697,dealhunter6382@eshop.com,Australia,Standard,2023-11-28 00:00:00,2024-11-27 00:00:00,6606.736626,2022-04-22: Inquiry about payment issues; 2022-05-18: Inquiry regarding order status
+698,invalid_email,USA,Premium,2023-11-29 00:00:00,2024-11-28 00:00:00,3294.2415,2022-11-12: Request about delayed delivery
+699,buyer4840@bestdeals.com,Germany,Premium,2023-11-30 00:00:00,2024-11-29 00:00:00,7932.11135,2022-07-14: Complaint for more information on a product; 2022-04-13: Request about delayed delivery
+700,marketfan2166@eshop.com,Canada,VIP,2023-12-01 00:00:00,2024-11-30 00:00:00,7389.766699,2022-09-11: Feedback about product availability; 2022-04-08: Feedback about payment issues
+701,buyer4873@shopworld.com,USA,Standard,2023-12-02 00:00:00,2024-12-01 00:00:00,1404.60245,2022-05-16: Feedback regarding order status; 2022-04-15: Complaint about payment issues
+702,marketfan8502@shopworld.com,Canada,VIP,2023-12-03 00:00:00,2024-12-02 00:00:00,5678.062998,2022-09-13: Inquiry about product availability; 2022-02-14: Inquiry about delayed delivery; 2022-02-12: Inquiry about delayed delivery
+703,dealhunter7659@buyeasy.com,Australia,Premium,2023-12-04 00:00:00,2024-12-03 00:00:00,3958.301094,2022-05-20: Complaint about membership benefits
+704,marketfan5635@eshop.com,Australia,VIP,2023-12-05 00:00:00,2024-12-04 00:00:00,6316.665464,2022-05-01: Request about payment issues
+705,buyer2902@shopworld.com,Australia,Premium,2023-12-06 00:00:00,2024-12-05 00:00:00,8621.092623,2022-11-23: Inquiry about membership benefits; 2022-07-13: Feedback regarding order status; 2022-03-31: Inquiry for more information on a product
+706,shopper2805@bestdeals.com,Germany,Premium,2023-12-07 00:00:00,2024-12-06 00:00:00,2807.942827,2022-04-26: Complaint about membership benefits; 2022-09-14: Request for more information on a product; 2022-10-28: Complaint about delayed delivery
+707,marketfan3745@buyeasy.com,Germany,Standard,2023-12-08 00:00:00,2024-12-07 00:00:00,663.5752242,2022-05-21: Complaint about product availability; 2022-04-11: Feedback regarding order status; 2022-03-21: Complaint about membership benefits
+708,buyer6756@buyeasy.com,UK,Premium,2023-12-09 00:00:00,2024-12-08 00:00:00,2541.725958,2022-01-31: Request about product availability
+709,shopper500@buyeasy.com,Australia,Premium,2023-12-10 00:00:00,2024-12-09 00:00:00,5071.977421,2022-12-20: Complaint regarding order status; 2022-05-18: Inquiry about membership benefits; 2022-08-16: Request about product availability
+710,buyer1522@bestdeals.com,Germany,Standard,2023-12-11 00:00:00,2024-12-10 00:00:00,7231.080097,2022-11-14: Feedback about payment issues; 2022-08-29: Inquiry for more information on a product; 2022-07-11: Complaint about payment issues
+711,buyer3843@eshop.com,UK,Standard,2023-12-12 00:00:00,2024-12-11 00:00:00,237.0449491,2022-10-26: Complaint about delayed delivery
+712,marketfan9555@shopworld.com,USA,Premium,2023-12-13 00:00:00,2024-12-12 00:00:00,189.159382,2022-05-21: Request regarding order status
+713,shopper9051@bestdeals.com,Canada,Premium,2023-12-14 00:00:00,2024-12-13 00:00:00,790.5735605,2022-03-26: Request about payment issues; 2022-07-17: Inquiry for more information on a product
+714,dealhunter4030@bestdeals.com,UK,Standard,2023-12-15 00:00:00,2024-12-14 00:00:00,4986.267127,2022-03-04: Feedback regarding order status
+715,shopper6813@bestdeals.com,Germany,VIP,2023-12-16 00:00:00,2024-12-15 00:00:00,7721.701133,2022-07-06: Complaint regarding order status; 2022-03-12: Request for more information on a product
+716,buyer8558@eshop.com,Canada,Standard,2023-12-17 00:00:00,2024-12-16 00:00:00,8375.574587,2022-11-01: Inquiry about membership benefits
+717,shopper1438@shopworld.com,UK,VIP,2023-12-18 00:00:00,2024-12-17 00:00:00,2034.886333,2022-06-24: Inquiry about product availability
+718,marketfan6208@buyeasy.com,Australia,VIP,2023-12-19 00:00:00,2024-12-18 00:00:00,6150.425931,2022-01-24: Complaint about membership benefits; 2022-02-23: Feedback about product availability; 2022-08-28: Feedback regarding order status
+719,shopper727@shopworld.com,Canada,Standard,2023-12-20 00:00:00,2024-12-19 00:00:00,2500.390613,2022-09-04: Request about product availability
+720,dealhunter8223@buyeasy.com,Germany,Premium,2023-12-21 00:00:00,2024-12-20 00:00:00,1790.240495,2022-09-12: Feedback about payment issues
+721,marketfan5654@bestdeals.com,Germany,Standard,2023-12-22 00:00:00,2024-12-21 00:00:00,9042.932471,2022-01-08: Inquiry for more information on a product
+722,dealhunter9540@buyeasy.com,UK,Premium,2023-12-23 00:00:00,2024-12-22 00:00:00,5077.65853,2022-06-05: Inquiry about membership benefits
+723,shopper2170@shopworld.com,UK,Premium,2023-12-24 00:00:00,2024-12-23 00:00:00,6206.628183,2022-01-09: Request about delayed delivery; 2022-01-31: Complaint about payment issues; 2022-01-23: Complaint for more information on a product
+724,dealhunter1975@bestdeals.com,UK,VIP,2023-12-25 00:00:00,2024-12-24 00:00:00,-999,2022-04-10: Inquiry regarding order status
+725,buyer2522@eshop.com,Australia,Premium,2023-12-26 00:00:00,2024-12-25 00:00:00,2891.365885,2022-08-27: Feedback regarding order status; 2022-09-16: Request about delayed delivery
+726,shopper6028@buyeasy.com,UK,VIP,2023-12-27 00:00:00,2024-12-26 00:00:00,7522.078376,2022-05-23: Feedback regarding order status
+727,dealhunter6109@shopworld.com,USA,Premium,2023-12-28 00:00:00,2024-12-27 00:00:00,684.9138017,2022-09-01: Feedback regarding order status; 2022-12-17: Feedback about product availability
+728,dealhunter280@buyeasy.com,Germany,Standard,2023-12-29 00:00:00,2024-12-28 00:00:00,6456.632805,2022-05-13: Request about membership benefits
+729,shopper7243@shopworld.com,Germany,VIP,2023-12-30 00:00:00,2024-12-29 00:00:00,1516.147133,2022-09-15: Complaint for more information on a product
+730,marketfan3786@shopworld.com,Canada,Standard,2023-12-31 00:00:00,2024-12-30 00:00:00,874.1428212,2022-10-15: Complaint about membership benefits; 2022-03-24: Inquiry about membership benefits; 2022-03-13: Inquiry about payment issues
+731,dealhunter2141@shopworld.com,Australia,Standard,2024-01-01 00:00:00,2024-12-31 00:00:00,3423.338248,2022-07-06: Request about membership benefits
+732,marketfan6125@buyeasy.com,USA,Standard,2024-01-02 00:00:00,2025-01-01 00:00:00,5333.124743,2022-08-18: Complaint about membership benefits
+733,buyer4667@shopworld.com,UK,Standard,2024-01-03 00:00:00,2025-01-02 00:00:00,6528.153612,2022-01-16: Feedback for more information on a product
+734,shopper3321@shopworld.com,UK,Standard,2024-01-04 00:00:00,2025-01-03 00:00:00,8299.691332,2022-06-04: Inquiry about payment issues; 2022-10-10: Request about delayed delivery; 2022-03-06: Request for more information on a product
+735,marketfan877@eshop.com,USA,Standard,2024-01-05 00:00:00,2025-01-04 00:00:00,7866.439089,2022-02-20: Inquiry about product availability
+736,marketfan1937@eshop.com,Canada,Premium,2024-01-06 00:00:00,2025-01-05 00:00:00,5490.997878,2022-09-24: Inquiry about product availability; 2022-10-05: Inquiry about delayed delivery; 2022-12-27: Request about membership benefits
+737,invalid_email,Canada,Standard,2024-01-07 00:00:00,2025-01-06 00:00:00,2172.640917,2022-04-26: Feedback about payment issues
+738,buyer3967@shopworld.com,UK,Premium,2024-01-08 00:00:00,2025-01-07 00:00:00,3805.087719,2022-04-01: Complaint about payment issues
+739,dealhunter6960@bestdeals.com,Germany,Standard,2024-01-09 00:00:00,2025-01-08 00:00:00,3598.250009,2022-08-10: Inquiry regarding order status; 2022-04-10: Inquiry regarding order status
+740,dealhunter7584@buyeasy.com,Germany,VIP,2024-01-10 00:00:00,2025-01-09 00:00:00,9684.637453,2022-03-30: Request about delayed delivery; 2022-06-12: Inquiry about membership benefits
+741,dealhunter9017@shopworld.com,Germany,Premium,2024-01-11 00:00:00,2025-01-10 00:00:00,9741.923089,2022-02-02: Request about payment issues; 2022-09-06: Complaint about membership benefits; 2022-03-16: Feedback about membership benefits
+742,buyer1959@eshop.com,Canada,VIP,2024-01-12 00:00:00,2025-01-11 00:00:00,1262.713707,2022-09-13: Inquiry about delayed delivery; 2022-06-12: Feedback about payment issues
+743,buyer6349@eshop.com,UK,Standard,2024-01-13 00:00:00,2025-01-12 00:00:00,6644.819595,2022-07-17: Request about membership benefits
+744,buyer3017@buyeasy.com,UK,Standard,2024-01-14 00:00:00,2025-01-13 00:00:00,6660.044629,2022-06-11: Feedback about product availability; 2022-05-20: Feedback about membership benefits
+745,marketfan1946@shopworld.com,Canada,VIP,2024-01-15 00:00:00,2025-01-14 00:00:00,2198.650373,2022-03-12: Inquiry for more information on a product
+746,shopper4933@buyeasy.com,Canada,Premium,2024-01-16 00:00:00,2025-01-15 00:00:00,8294.248796,2022-07-01: Request about payment issues
+747,marketfan616@bestdeals.com,Canada,Premium,2024-01-17 00:00:00,2025-01-16 00:00:00,1363.503936,2022-05-06: Feedback about delayed delivery
+748,shopper9718@eshop.com,USA,VIP,2024-01-18 00:00:00,2025-01-17 00:00:00,2255.002505,2022-11-29: Feedback about membership benefits; 2022-10-20: Complaint about delayed delivery
+749,buyer7906@shopworld.com,Germany,Standard,2024-01-19 00:00:00,2025-01-18 00:00:00,3835.886841,2022-02-15: Inquiry about membership benefits
+750,marketfan5480@shopworld.com,Canada,Premium,2024-01-20 00:00:00,2025-01-19 00:00:00,7535.40669,2022-08-08: Request regarding order status; 2022-12-06: Request about delayed delivery
+751,shopper552@shopworld.com,USA,Standard,2024-01-21 00:00:00,2025-01-20 00:00:00,7639.118519,2022-03-28: Complaint for more information on a product
+752,marketfan2512@shopworld.com,Australia,Standard,2024-01-22 00:00:00,2025-01-21 00:00:00,6245.826337,2022-08-28: Feedback about payment issues; 2022-03-03: Feedback regarding order status; 2022-12-02: Inquiry about membership benefits
+753,dealhunter3952@buyeasy.com,UK,VIP,2024-01-23 00:00:00,2025-01-22 00:00:00,5483.214321,2022-07-26: Request for more information on a product; 2022-02-05: Feedback about membership benefits
+754,shopper1184@shopworld.com,Canada,Standard,2024-01-24 00:00:00,2025-01-23 00:00:00,220.4482512,2022-10-18: Inquiry about membership benefits; 2022-05-01: Inquiry for more information on a product; 2022-11-29: Feedback about product availability
+755,buyer2100@shopworld.com,USA,Premium,2024-01-25 00:00:00,2025-01-24 00:00:00,9726.336222,2022-05-23: Request about product availability
+756,buyer9116@buyeasy.com,UK,VIP,2024-01-26 00:00:00,2025-01-25 00:00:00,5952.292804,2022-12-30: Inquiry about membership benefits; 2022-05-21: Complaint about membership benefits; 2022-09-24: Inquiry regarding order status
+757,dealhunter6192@bestdeals.com,Australia,Premium,2024-01-27 00:00:00,2025-01-26 00:00:00,7245.186352,2022-05-08: Request about product availability
+758,dealhunter849@shopworld.com,Australia,VIP,2024-01-28 00:00:00,2025-01-27 00:00:00,8417.625113,2022-03-15: Feedback for more information on a product
+759,buyer7915@eshop.com,Australia,Premium,2024-01-29 00:00:00,2025-01-28 00:00:00,8957.231053,2022-04-24: Inquiry about payment issues; 2022-03-02: Inquiry about delayed delivery
+760,dealhunter4751@eshop.com,Germany,VIP,2024-01-30 00:00:00,2025-01-29 00:00:00,6299.282523,2022-05-22: Complaint about delayed delivery; 2022-09-22: Complaint about membership benefits
+761,dealhunter7475@bestdeals.com,Australia,VIP,2024-01-31 00:00:00,2025-01-30 00:00:00,652.8130358,2022-08-04: Complaint about membership benefits
+762,buyer9749@bestdeals.com,Germany,Standard,2024-02-01 00:00:00,2025-01-31 00:00:00,279.4121318,2022-11-18: Feedback regarding order status
+763,shopper462@shopworld.com,USA,Standard,2024-02-02 00:00:00,2025-02-01 00:00:00,562.9574617,2022-12-15: Feedback for more information on a product; 2022-08-14: Inquiry for more information on a product
+764,marketfan4903@bestdeals.com,USA,Premium,2024-02-03 00:00:00,2025-02-02 00:00:00,8439.760689,2022-06-29: Inquiry about delayed delivery; 2022-05-07: Request regarding order status; 2022-12-14: Complaint about delayed delivery
+765,shopper1299@eshop.com,UK,VIP,2024-02-04 00:00:00,2025-02-03 00:00:00,6562.318282,2022-07-13: Feedback about delayed delivery; 2022-05-03: Complaint about delayed delivery; 2022-09-20: Complaint about membership benefits
+766,shopper2555@eshop.com,USA,VIP,2024-02-05 00:00:00,2025-02-04 00:00:00,3229.275302,2022-10-24: Inquiry about product availability; 2022-08-06: Feedback about product availability; 2022-09-23: Feedback about payment issues
+767,shopper3038@eshop.com,USA,Premium,2024-02-06 00:00:00,2025-02-05 00:00:00,2580.821271,2022-12-22: Inquiry about delayed delivery
+768,marketfan4573@bestdeals.com,UK,Premium,2024-02-07 00:00:00,2025-02-06 00:00:00,1612.535308,2022-04-23: Inquiry regarding order status; 2022-07-23: Complaint for more information on a product
+769,marketfan212@eshop.com,USA,Standard,2024-02-08 00:00:00,2025-02-07 00:00:00,3388.713637,2022-03-10: Feedback about membership benefits
+770,shopper2793@shopworld.com,UK,Premium,2024-02-09 00:00:00,2025-02-08 00:00:00,7713.008915,2022-10-02: Request about product availability; 2022-09-09: Inquiry regarding order status
+771,buyer5535@eshop.com,USA,VIP,2024-02-10 00:00:00,2025-02-09 00:00:00,3202.610228,2022-09-18: Request regarding order status; 2022-07-20: Request about payment issues; 2022-05-18: Inquiry about product availability
+772,marketfan7426@buyeasy.com,Australia,Premium,2024-02-11 00:00:00,2025-02-10 00:00:00,5149.298324,2022-09-09: Feedback about membership benefits; 2022-02-17: Complaint about membership benefits
+773,buyer6161@eshop.com,UK,Premium,2024-02-12 00:00:00,2025-02-11 00:00:00,7163.520246,2022-03-30: Inquiry about product availability
+774,dealhunter2796@eshop.com,UK,VIP,2024-02-13 00:00:00,2025-02-12 00:00:00,8091.665353,2022-07-16: Complaint about membership benefits
+775,buyer1096@shopworld.com,USA,Standard,2024-02-14 00:00:00,2025-02-13 00:00:00,3228.793393,2022-07-24: Inquiry about payment issues; 2022-11-21: Inquiry for more information on a product
+776,dealhunter8181@bestdeals.com,Germany,VIP,2024-02-15 00:00:00,2025-02-14 00:00:00,5455.822295,2022-10-07: Complaint regarding order status; 2022-10-30: Feedback about membership benefits
+777,dealhunter1358@eshop.com,USA,Premium,2024-02-16 00:00:00,2025-02-15 00:00:00,2469.800013,2022-08-13: Inquiry about product availability; 2022-08-04: Feedback about membership benefits
+778,shopper8033@eshop.com,Canada,Standard,2024-02-17 00:00:00,2025-02-16 00:00:00,9181.169174,2022-09-28: Feedback about delayed delivery; 2022-05-04: Inquiry for more information on a product; 2022-09-01: Request for more information on a product
+779,dealhunter2843@buyeasy.com,UK,VIP,2024-02-18 00:00:00,2025-02-17 00:00:00,4465.25232,2022-09-23: Complaint about delayed delivery
+780,marketfan2068@buyeasy.com,UK,Standard,2024-02-19 00:00:00,2025-02-18 00:00:00,6564.4183,2022-10-06: Request about payment issues; 2022-05-19: Inquiry about product availability; 2022-03-29: Feedback about membership benefits
+781,marketfan9883@eshop.com,Canada,Premium,2024-02-20 00:00:00,2025-02-19 00:00:00,8174.148533,2022-01-02: Request about payment issues
+782,buyer8229@shopworld.com,USA,VIP,2024-02-21 00:00:00,2025-02-20 00:00:00,7415.393324,2022-09-04: Request for more information on a product; 2022-01-13: Inquiry for more information on a product; 2022-12-05: Feedback about product availability
+783,shopper5732@shopworld.com,Canada,Premium,2024-02-22 00:00:00,2025-02-21 00:00:00,5104.708731,2022-07-29: Request about payment issues
+784,shopper6271@eshop.com,Australia,Premium,2024-02-23 00:00:00,2025-02-22 00:00:00,1291.356544,2022-07-27: Inquiry about product availability
+785,marketfan834@buyeasy.com,UK,Standard,2024-02-24 00:00:00,2025-02-23 00:00:00,5653.635849,2022-12-15: Inquiry regarding order status; 2022-10-29: Complaint regarding order status; 2022-01-08: Request about product availability
+786,shopper2525@buyeasy.com,Australia,Standard,2024-02-25 00:00:00,2025-02-24 00:00:00,8576.270916,2022-01-08: Complaint about payment issues; 2022-03-12: Request for more information on a product
+787,buyer9415@buyeasy.com,Germany,VIP,2024-02-26 00:00:00,2025-02-25 00:00:00,6466.495906,2022-10-09: Request about membership benefits
+788,buyer4383@eshop.com,UK,VIP,2024-02-27 00:00:00,2025-02-26 00:00:00,1622.183655,2022-10-22: Complaint about delayed delivery; 2022-01-07: Complaint about membership benefits; 2022-03-22: Complaint for more information on a product
+789,marketfan6570@buyeasy.com,USA,Standard,2024-02-28 00:00:00,2025-02-27 00:00:00,7827.811893,2022-08-10: Request for more information on a product; 2022-09-10: Request about membership benefits
+790,marketfan2222@shopworld.com,Australia,Standard,2024-02-29 00:00:00,2025-02-28 00:00:00,9163.478281,2022-07-29: Request about membership benefits; 2022-07-31: Inquiry for more information on a product
+791,dealhunter8420@eshop.com,UK,VIP,2024-03-01 00:00:00,2025-03-01 00:00:00,-999,2022-02-17: Complaint about delayed delivery; 2022-03-31: Complaint regarding order status; 2022-08-19: Inquiry about product availability
+792,dealhunter8839@buyeasy.com,Canada,Premium,2024-03-02 00:00:00,2025-03-02 00:00:00,3252.865826,2022-05-20: Complaint regarding order status; 2022-05-28: Complaint regarding order status; 2022-05-23: Request about membership benefits
+793,buyer5756@shopworld.com,UK,Premium,2024-03-03 00:00:00,2025-03-03 00:00:00,2694.286001,2022-08-23: Feedback for more information on a product
+794,marketfan7348@shopworld.com,Germany,Standard,2024-03-04 00:00:00,2025-03-04 00:00:00,555.6432605,2022-09-10: Request about membership benefits
+795,marketfan8940@buyeasy.com,Australia,Standard,2024-03-05 00:00:00,2025-03-05 00:00:00,1955.100198,2022-04-24: Inquiry about payment issues; 2022-04-02: Request about product availability
+796,shopper3073@bestdeals.com,Germany,Premium,2024-03-06 00:00:00,2025-03-06 00:00:00,5368.995591,2022-09-06: Inquiry for more information on a product; 2022-11-10: Complaint about membership benefits
+797,marketfan4597@shopworld.com,UK,VIP,2024-03-07 00:00:00,2025-03-07 00:00:00,3430.731909,2022-11-28: Request about product availability
+798,marketfan6832@buyeasy.com,Australia,Premium,2024-03-08 00:00:00,2025-03-08 00:00:00,9304.817302,2022-10-29: Request for more information on a product; 2022-01-01: Feedback about payment issues
+799,marketfan7431@buyeasy.com,Canada,VIP,2024-03-09 00:00:00,2025-03-09 00:00:00,3873.751672,2022-11-29: Feedback about product availability
+800,marketfan4015@eshop.com,USA,Standard,2024-03-10 00:00:00,2025-03-10 00:00:00,5833.562382,2022-10-10: Inquiry about delayed delivery; 2022-04-23: Inquiry regarding order status; 2022-07-24: Request about delayed delivery
